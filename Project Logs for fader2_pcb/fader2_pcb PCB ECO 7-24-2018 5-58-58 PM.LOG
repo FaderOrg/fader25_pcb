@@ -1,0 +1,984 @@
+Removed Pin From Net: NetName=clk_bb16_vcm Pin=BL2-2
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=VDD_SCAN_FPGA Pin=C63-1
+Removed Pin From Net: NetName=GND Pin=C63-2
+Removed Pin From Net: NetName=GND Pin=C64-2
+Removed Pin From Net: NetName=VDD_IN Pin=C67-1
+Removed Pin From Net: NetName=GND Pin=C67-2
+Removed Pin From Net: NetName=VDD_IN Pin=C68-1
+Removed Pin From Net: NetName=GND Pin=C68-2
+Removed Pin From Net: NetName=VDD_UNREG Pin=H1-1
+Removed Pin From Net: NetName=GND Pin=H1-3
+Removed Pin From Net: NetName=GND Pin=H10-1
+Removed Pin From Net: NetName=GND Pin=H10-3
+Removed Pin From Net: NetName=GND Pin=H10-5
+Removed Pin From Net: NetName=GND Pin=H10-7
+Removed Pin From Net: NetName=GND Pin=H10-9
+Removed Pin From Net: NetName=GND Pin=H10-11
+Removed Pin From Net: NetName=VDD_IN Pin=H15-1
+Removed Pin From Net: NetName=VDD_IN Pin=H15-2
+Removed Pin From Net: NetName=GND Pin=H16-1
+Removed Pin From Net: NetName=GND Pin=H16-2
+Removed Pin From Net: NetName=GND Pin=H16-3
+Removed Pin From Net: NetName=VDD_IN Pin=H17-1
+Removed Pin From Net: NetName=VDD_IN Pin=H17-2
+Removed Pin From Net: NetName=GND Pin=H18-1
+Removed Pin From Net: NetName=GND Pin=H18-2
+Removed Pin From Net: NetName=GND Pin=H18-3
+Removed Pin From Net: NetName=VDD_D_REG Pin=R3-2
+Removed Pin From Net: NetName=VDD_LO_NW_FER Pin=R4-1
+Removed Pin From Net: NetName=VDD_A_NW_FER Pin=R7-1
+Removed Pin From Net: NetName=VDD_LO_NW_REG Pin=R9-2
+Removed Pin From Net: NetName=VDD_SCAN_FPGA Pin=R11-1
+Removed Pin From Net: NetName=VDD_SCAN_FPGA Pin=R12-1
+Removed Pin From Net: NetName=VDD_FPGA_3P3V Pin=R13-1
+Removed Pin From Net: NetName=VDD_FPGA_3P3V Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=R40-1
+Removed Pin From Net: NetName=VDD_D_FER Pin=R43-1
+Removed Pin From Net: NetName=GND Pin=R44-2
+Removed Pin From Net: NetName=VDD_A_NW_REG Pin=R52-2
+Removed Pin From Net: NetName=VDD_SCAN_FPGA Pin=R61-1
+Removed Pin From Net: NetName=GND Pin=R62-2
+Removed Pin From Net: NetName=GND Pin=SMA14-2
+Removed Pin From Net: NetName=GND Pin=SMA14-3
+Removed Pin From Net: NetName=GND Pin=SMA14-4
+Removed Pin From Net: NetName=GND Pin=SMA14-5
+Removed Pin From Net: NetName=GND Pin=SMA15-2
+Removed Pin From Net: NetName=GND Pin=SMA15-3
+Removed Pin From Net: NetName=GND Pin=SMA15-4
+Removed Pin From Net: NetName=GND Pin=SMA15-5
+Removed Pin From Net: NetName=GND Pin=SMA16-2
+Removed Pin From Net: NetName=GND Pin=SMA16-3
+Removed Pin From Net: NetName=GND Pin=SMA16-4
+Removed Pin From Net: NetName=GND Pin=SMA16-5
+Removed Pin From Net: NetName=GND Pin=SMA17-1
+Removed Pin From Net: NetName=GND Pin=SMA17-2
+Removed Pin From Net: NetName=GND Pin=SMA17-3
+Removed Pin From Net: NetName=GND Pin=SMA17-4
+Removed Pin From Net: NetName=GND Pin=SMA17-5
+Removed Pin From Net: NetName=GND Pin=SMA18-2
+Removed Pin From Net: NetName=GND Pin=SMA18-3
+Removed Pin From Net: NetName=GND Pin=SMA18-4
+Removed Pin From Net: NetName=GND Pin=SMA18-5
+Removed Pin From Net: NetName=VDD_UNREG Pin=TP4-1
+Removed Pin From Net: NetName=GND Pin=U7-7
+Removed Pin From Net: NetName=GND Pin=U30-A1
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-A2
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-A6
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-A7
+Removed Pin From Net: NetName=GND Pin=U30-A8
+Removed Pin From Net: NetName=GND Pin=U30-B1
+Removed Pin From Net: NetName=GND Pin=U30-B2
+Removed Pin From Net: NetName=GND Pin=U30-B3
+Removed Pin From Net: NetName=GND Pin=U30-B4
+Removed Pin From Net: NetName=GND Pin=U30-B5
+Removed Pin From Net: NetName=GND Pin=U30-B6
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-B7
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-B8
+Removed Pin From Net: NetName=GND Pin=U30-C6
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-C7
+Removed Pin From Net: NetName=GND Pin=U30-D6
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-D7
+Removed Pin From Net: NetName=GND Pin=U30-E1
+Removed Pin From Net: NetName=GND Pin=U30-E2
+Removed Pin From Net: NetName=GND Pin=U30-E7
+Removed Pin From Net: NetName=GND Pin=U30-E8
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-F3
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-F6
+Removed Pin From Net: NetName=GND Pin=U30-F7
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-G5
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-G6
+Removed Pin From Net: NetName=GND Pin=U30-G7
+Removed Pin From Net: NetName=GND Pin=U30-H1
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-H2
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-H4
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-H5
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-H6
+Removed Pin From Net: NetName=GND Pin=U30-H7
+Removed Pin From Net: NetName=GND Pin=U30-H8
+Removed Pin From Net: NetName=GND Pin=U30-I1
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-I2
+Removed Pin From Net: NetName=VDD_UNREG Pin=U30-I5
+Removed Pin From Net: NetName=GND Pin=U30-I6
+Removed Pin From Net: NetName=GND Pin=U30-I8
+Removed Pin From Net: NetName=VDD_SCAN_FPGA Pin=U31-1
+Removed Pin From Net: NetName=GND Pin=U31-6
+Removed Pin From Net: NetName=GND Pin=U31-7
+Removed Pin From Net: NetName=GND Pin=U31-8
+Removed Pin From Net: NetName=GND Pin=U31-9
+Removed Pin From Net: NetName=GND Pin=U31-12
+Removed Member From Class: ClassName=Top_Sheet Member=C9
+Removed Member From Class: ClassName=Top_Sheet Member=C10
+Removed Member From Class: ClassName=U_Lvl_Shifters Member=C63
+Removed Member From Class: ClassName=U_Lvl_Shifters Member=C64
+Removed Member From Class: ClassName=Top_Sheet Member=C67
+Removed Member From Class: ClassName=Top_Sheet Member=C68
+Removed Member From Class: ClassName=Top_Sheet Member=H15
+Removed Member From Class: ClassName=Top_Sheet Member=H16
+Removed Member From Class: ClassName=Top_Sheet Member=H17
+Removed Member From Class: ClassName=Top_Sheet Member=H18
+Removed Member From Class: ClassName=U_Supplies_LDO Member=R4
+Removed Member From Class: ClassName=U_Supplies_LDO Member=R7
+Removed Member From Class: ClassName=U_BB_analog Member=R25
+Removed Member From Class: ClassName=U_Supplies_Pots Member=R40
+Removed Member From Class: ClassName=U_Supplies_LDO Member=R43
+Removed Member From Class: ClassName=U_Supplies_Pots Member=R52
+Removed Member From Class: ClassName=U_Lvl_Shifters Member=R61
+Removed Member From Class: ClassName=U_Lvl_Shifters Member=R62
+Removed Member From Class: ClassName=U_BB_analog Member=R100
+Removed Member From Class: ClassName=U_BB_analog Member=SMA5
+Removed Member From Class: ClassName=U_BB_analog Member=SMA6
+Removed Member From Class: ClassName=Top_Sheet Member=TP5
+Removed Member From Class: ClassName=Top_Sheet Member=U30
+Removed Member From Class: ClassName=U_Lvl_Shifters Member=U31
+Removed Member From Class: ClassName=Top_Sheet Member=VR1
+Change Component Footprint: Designator=C7 Old Footprint=0201 New Footprint=1210
+Change Component Footprint: Designator=C8 Old Footprint=0402 New Footprint=1210
+Change Component Footprint: Designator=H1 Old Footprint=HDR1X3 New Footprint=HDR1X2
+Change Component Footprint: Designator=H10 Old Footprint=HDR2X6 New Footprint=HDR1X2
+Change Component Footprint: Designator=SMA5 Old Footprint=THRU_SMA_JOHNSON New Footprint=THRU_SMD_SMA
+Change Component Footprint: Designator=SMA6 Old Footprint=THRU_SMA_JOHNSON New Footprint=THRU_SMD_SMA
+Change Component Comment : Designator=R7 Old Comment=0.05ohm New Comment=0ohm
+Change Component Comment : Designator=R4 Old Comment=0.05ohm New Comment=2.67Kohm
+Change Component Comment : Designator=R6 Old Comment=1.5Kohm New Comment=2.67Kohm
+Change Component Comment : Designator=R1 Old Comment=2Kohm New Comment=2.67Kohm
+Change Component Comment : Designator=R2 Old Comment=5Kohm New Comment=4.32Kohm
+Change Component Comment : Designator=C8 Old Comment=10nF New Comment=22uF
+Change Component Comment : Designator=C7 Old Comment=100pF New Comment=22uF
+Change Component Comment : Designator=R9 Old Comment=300ohm New Comment=0ohm
+Change Component Comment : Designator=H10 Old Comment=Header 6X2 New Comment=Header_2
+Change Component Comment : Designator=H1 Old Comment=Header_3 New Comment=Header_2
+Change Component Comment : Designator=SMA5 Old Comment=SMA low freq New Comment=SMA high freq
+Change Component Comment : Designator=SMA6 Old Comment=SMA low freq New Comment=SMA high freq
+Change component parameters: Designator = "H1"; Footprint = "HDR1X2"; UniqueID = "\BYAPQXUF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "609-3469-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "68001-202HLF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "0603"; UniqueID = "\ASGAKNBX\URCKYRBD\LDHKKBWM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "P2.67KDBCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "ERA-3AEB2671V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "0603"; UniqueID = "\RTVMIPST\AMRHYRHR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "P4.32KDBCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "ERA-3AEB4321V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "0603"; UniqueID = "\ASGAKNBX\URCKYRBD\TCWLOVOV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "P2.67KDBCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "ERA-3AEB2671V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "0603"; UniqueID = "\ASGAKNBX\URCKYRBD\KOQRWKUW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "P2.67KDBCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "ERA-3AEB2671V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "0603"; UniqueID = "\ASGAKNBX\URCKYRBD\REVBKFLF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "0603"; UniqueID = "\ASGAKNBX\URCKYRBD\FNTWFVUO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H10"; Footprint = "HDR1X2"; UniqueID = "\BETYRYVO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "609-3469-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "68001-202HLF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SMA5"; Footprint = "THRU_SMD_SMA"; UniqueID = "\RTVMIPST\LJSRNQYJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "ACX1962-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Amphenol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "132134-15"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SMA6"; Footprint = "THRU_SMD_SMA"; UniqueID = "\RTVMIPST\KIJBSIHE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "ACX1962-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Amphenol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "132134-15"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "1210"; UniqueID = "\OSIBUGDM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4524-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GRM32ER71C226KE18L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "1210"; UniqueID = "\NUSCDMHH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4524-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GRM32ER71C226KE18L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=H8(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3461-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68000-103HLF"; VariantName = "[No Variations]"
+Added Component: Designator=H9(HDR2X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3237-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "67997-212HLF"; VariantName = "[No Variations]"
+Added Component: Designator=H11(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3461-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68000-103HLF"; VariantName = "[No Variations]"
+Added Component: Designator=SMA9(THRU_SMD_SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "ACX1962-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "132134-15"; VariantName = "[No Variations]"
+Added Component: Designator=SMA10(THRU_SMD_SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "ACX1962-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "132134-15"; VariantName = "[No Variations]"
+Added Component: Designator=SMA11(THRU_SMD_SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "ACX1962-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "132134-15"; VariantName = "[No Variations]"
+Added Component: Designator=SMA12(THRU_SMD_SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "ACX1962-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "132134-15"; VariantName = "[No Variations]"
+Added Component: Designator=U(FFT2CHIP_2p5mil)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VDD_IN Pin=C7-1
+Added Pin To Net: NetName=VDD_IN Pin=C8-1
+Added Pin To Net: NetName=VDD_IN Pin=H1-1
+Added Pin To Net: NetName=VDD_IN Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H8-1
+Added Pin To Net: NetName=GND Pin=H8-2
+Added Pin To Net: NetName=GND Pin=H8-3
+Added Pin To Net: NetName=GND Pin=H9-1
+Added Pin To Net: NetName=GND Pin=H9-3
+Added Pin To Net: NetName=GND Pin=H9-5
+Added Pin To Net: NetName=GND Pin=H9-7
+Added Pin To Net: NetName=GND Pin=H9-9
+Added Pin To Net: NetName=GND Pin=H9-11
+Added Pin To Net: NetName=VDD_IN Pin=H10-1
+Added Pin To Net: NetName=VDD_IN Pin=H10-2
+Added Pin To Net: NetName=GND Pin=H11-1
+Added Pin To Net: NetName=GND Pin=H11-2
+Added Pin To Net: NetName=GND Pin=H11-3
+Added Pin To Net: NetName=VDD_A_NW_REG Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=VDD_LO_NW_REG Pin=R7-2
+Added Pin To Net: NetName=VDD_D_REG Pin=R9-2
+Added Pin To Net: NetName=GND Pin=SMA9-2
+Added Pin To Net: NetName=GND Pin=SMA9-3
+Added Pin To Net: NetName=GND Pin=SMA9-4
+Added Pin To Net: NetName=GND Pin=SMA9-5
+Added Pin To Net: NetName=GND Pin=SMA10-2
+Added Pin To Net: NetName=GND Pin=SMA10-3
+Added Pin To Net: NetName=GND Pin=SMA10-4
+Added Pin To Net: NetName=GND Pin=SMA10-5
+Added Pin To Net: NetName=GND Pin=SMA11-2
+Added Pin To Net: NetName=GND Pin=SMA11-3
+Added Pin To Net: NetName=GND Pin=SMA11-4
+Added Pin To Net: NetName=GND Pin=SMA11-5
+Added Pin To Net: NetName=GND Pin=SMA12-2
+Added Pin To Net: NetName=GND Pin=SMA12-3
+Added Pin To Net: NetName=GND Pin=SMA12-4
+Added Pin To Net: NetName=GND Pin=SMA12-5
+Added Pin To Net: NetName=VDD_UNREG Pin=TP1-1
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=TP2-1
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=TP3-1
+Added Pin To Net: NetName=VDD_D_FER Pin=TP4-1
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=GND Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U-A2
+Added Pin To Net: NetName=GND Pin=U-A7
+Added Pin To Net: NetName=GND Pin=U-A10
+Added Pin To Net: NetName=GND Pin=U-A13
+Added Pin To Net: NetName=GND Pin=U-A16
+Added Pin To Net: NetName=GND Pin=U-A19
+Added Pin To Net: NetName=GND Pin=U-A22
+Added Pin To Net: NetName=GND Pin=U-A25
+Added Pin To Net: NetName=GND Pin=U-AA1
+Added Pin To Net: NetName=GND Pin=U-AA2
+Added Pin To Net: NetName=GND Pin=U-AA3
+Added Pin To Net: NetName=GND Pin=U-AA4
+Added Pin To Net: NetName=GND Pin=U-AA5
+Added Pin To Net: NetName=GND Pin=U-AA6
+Added Pin To Net: NetName=GND Pin=U-AA7
+Added Pin To Net: NetName=GND Pin=U-AA8
+Added Pin To Net: NetName=GND Pin=U-AA9
+Added Pin To Net: NetName=GND Pin=U-AA10
+Added Pin To Net: NetName=GND Pin=U-AA11
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-AA12
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-AA13
+Added Pin To Net: NetName=GND Pin=U-AA14
+Added Pin To Net: NetName=GND Pin=U-AA15
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-AA16
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-AA17
+Added Pin To Net: NetName=GND Pin=U-AA18
+Added Pin To Net: NetName=GND Pin=U-AA19
+Added Pin To Net: NetName=GND Pin=U-AA20
+Added Pin To Net: NetName=GND Pin=U-AA21
+Added Pin To Net: NetName=GND Pin=U-AA22
+Added Pin To Net: NetName=GND Pin=U-AA23
+Added Pin To Net: NetName=GND Pin=U-AA24
+Added Pin To Net: NetName=GND Pin=U-AA25
+Added Pin To Net: NetName=GND Pin=U-AB1
+Added Pin To Net: NetName=VDD_UNREG Pin=U-AB2
+Added Pin To Net: NetName=VDD_UNREG Pin=U-AB3
+Added Pin To Net: NetName=GND Pin=U-AB4
+Added Pin To Net: NetName=GND Pin=U-AB5
+Added Pin To Net: NetName=GND Pin=U-AB6
+Added Pin To Net: NetName=GND Pin=U-AB7
+Added Pin To Net: NetName=GND Pin=U-AB8
+Added Pin To Net: NetName=GND Pin=U-AB9
+Added Pin To Net: NetName=GND Pin=U-AB10
+Added Pin To Net: NetName=GND Pin=U-AB11
+Added Pin To Net: NetName=GND Pin=U-AB12
+Added Pin To Net: NetName=GND Pin=U-AB13
+Added Pin To Net: NetName=GND Pin=U-AB14
+Added Pin To Net: NetName=GND Pin=U-AB15
+Added Pin To Net: NetName=GND Pin=U-AB16
+Added Pin To Net: NetName=GND Pin=U-AB17
+Added Pin To Net: NetName=GND Pin=U-AB18
+Added Pin To Net: NetName=GND Pin=U-AB19
+Added Pin To Net: NetName=GND Pin=U-AB20
+Added Pin To Net: NetName=GND Pin=U-AB21
+Added Pin To Net: NetName=GND Pin=U-AB22
+Added Pin To Net: NetName=GND Pin=U-AB23
+Added Pin To Net: NetName=VDD_UNREG Pin=U-AB24
+Added Pin To Net: NetName=VDD_UNREG Pin=U-AB25
+Added Pin To Net: NetName=GND Pin=U-AB26
+Added Pin To Net: NetName=VDD_UNREG Pin=U-AC2
+Added Pin To Net: NetName=VDD_UNREG Pin=U-AC3
+Added Pin To Net: NetName=GND Pin=U-AC4
+Added Pin To Net: NetName=GND Pin=U-AC5
+Added Pin To Net: NetName=GND Pin=U-AC6
+Added Pin To Net: NetName=GND Pin=U-AC7
+Added Pin To Net: NetName=GND Pin=U-AC8
+Added Pin To Net: NetName=GND Pin=U-AC9
+Added Pin To Net: NetName=GND Pin=U-AC11
+Added Pin To Net: NetName=GND Pin=U-AC12
+Added Pin To Net: NetName=GND Pin=U-AC14
+Added Pin To Net: NetName=GND Pin=U-AC15
+Added Pin To Net: NetName=GND Pin=U-AC17
+Added Pin To Net: NetName=GND Pin=U-AC18
+Added Pin To Net: NetName=GND Pin=U-AC20
+Added Pin To Net: NetName=GND Pin=U-AC21
+Added Pin To Net: NetName=GND Pin=U-AC22
+Added Pin To Net: NetName=GND Pin=U-AC23
+Added Pin To Net: NetName=VDD_UNREG Pin=U-AC24
+Added Pin To Net: NetName=VDD_UNREG Pin=U-AC25
+Added Pin To Net: NetName=VDD_UNREG Pin=U-AD2
+Added Pin To Net: NetName=VDD_UNREG Pin=U-AD3
+Added Pin To Net: NetName=GND Pin=U-AD4
+Added Pin To Net: NetName=GND Pin=U-AD5
+Added Pin To Net: NetName=GND Pin=U-AD6
+Added Pin To Net: NetName=GND Pin=U-AD7
+Added Pin To Net: NetName=GND Pin=U-AD20
+Added Pin To Net: NetName=GND Pin=U-AD21
+Added Pin To Net: NetName=GND Pin=U-AD22
+Added Pin To Net: NetName=GND Pin=U-AD23
+Added Pin To Net: NetName=VDD_UNREG Pin=U-AD24
+Added Pin To Net: NetName=VDD_UNREG Pin=U-AD25
+Added Pin To Net: NetName=GND Pin=U-AE1
+Added Pin To Net: NetName=VDD_UNREG Pin=U-AE2
+Added Pin To Net: NetName=VDD_UNREG Pin=U-AE3
+Added Pin To Net: NetName=GND Pin=U-AE4
+Added Pin To Net: NetName=GND Pin=U-AE5
+Added Pin To Net: NetName=GND Pin=U-AE6
+Added Pin To Net: NetName=GND Pin=U-AE7
+Added Pin To Net: NetName=GND Pin=U-AE20
+Added Pin To Net: NetName=GND Pin=U-AE21
+Added Pin To Net: NetName=GND Pin=U-AE22
+Added Pin To Net: NetName=GND Pin=U-AE23
+Added Pin To Net: NetName=VDD_UNREG Pin=U-AE24
+Added Pin To Net: NetName=VDD_UNREG Pin=U-AE25
+Added Pin To Net: NetName=GND Pin=U-AE26
+Added Pin To Net: NetName=GND Pin=U-AF2
+Added Pin To Net: NetName=GND Pin=U-AF3
+Added Pin To Net: NetName=GND Pin=U-AF4
+Added Pin To Net: NetName=GND Pin=U-AF5
+Added Pin To Net: NetName=GND Pin=U-AF6
+Added Pin To Net: NetName=GND Pin=U-AF7
+Added Pin To Net: NetName=GND Pin=U-AF10
+Added Pin To Net: NetName=GND Pin=U-AF13
+Added Pin To Net: NetName=GND Pin=U-AF16
+Added Pin To Net: NetName=GND Pin=U-AF19
+Added Pin To Net: NetName=GND Pin=U-AF22
+Added Pin To Net: NetName=GND Pin=U-AF25
+Added Pin To Net: NetName=GND Pin=U-B1
+Added Pin To Net: NetName=VDD_UNREG Pin=U-B3
+Added Pin To Net: NetName=GND Pin=U-B4
+Added Pin To Net: NetName=GND Pin=U-B5
+Added Pin To Net: NetName=GND Pin=U-B6
+Added Pin To Net: NetName=GND Pin=U-B7
+Added Pin To Net: NetName=GND Pin=U-B20
+Added Pin To Net: NetName=GND Pin=U-B21
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-B22
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-B23
+Added Pin To Net: NetName=VDD_UNREG Pin=U-B24
+Added Pin To Net: NetName=VDD_UNREG Pin=U-B25
+Added Pin To Net: NetName=GND Pin=U-B26
+Added Pin To Net: NetName=VDD_UNREG Pin=U-C2
+Added Pin To Net: NetName=VDD_UNREG Pin=U-C3
+Added Pin To Net: NetName=GND Pin=U-C4
+Added Pin To Net: NetName=GND Pin=U-C5
+Added Pin To Net: NetName=GND Pin=U-C6
+Added Pin To Net: NetName=GND Pin=U-C7
+Added Pin To Net: NetName=GND Pin=U-C20
+Added Pin To Net: NetName=GND Pin=U-C21
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-C22
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-C23
+Added Pin To Net: NetName=VDD_UNREG Pin=U-C24
+Added Pin To Net: NetName=VDD_UNREG Pin=U-C25
+Added Pin To Net: NetName=VDD_UNREG Pin=U-D2
+Added Pin To Net: NetName=VDD_UNREG Pin=U-D3
+Added Pin To Net: NetName=GND Pin=U-D4
+Added Pin To Net: NetName=GND Pin=U-D5
+Added Pin To Net: NetName=GND Pin=U-D6
+Added Pin To Net: NetName=GND Pin=U-D7
+Added Pin To Net: NetName=GND Pin=U-D8
+Added Pin To Net: NetName=GND Pin=U-D9
+Added Pin To Net: NetName=GND Pin=U-D11
+Added Pin To Net: NetName=GND Pin=U-D12
+Added Pin To Net: NetName=GND Pin=U-D14
+Added Pin To Net: NetName=GND Pin=U-D15
+Added Pin To Net: NetName=GND Pin=U-D17
+Added Pin To Net: NetName=GND Pin=U-D18
+Added Pin To Net: NetName=GND Pin=U-D20
+Added Pin To Net: NetName=GND Pin=U-D21
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-D22
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-D23
+Added Pin To Net: NetName=VDD_UNREG Pin=U-D24
+Added Pin To Net: NetName=VDD_UNREG Pin=U-D25
+Added Pin To Net: NetName=GND Pin=U-E1
+Added Pin To Net: NetName=VDD_UNREG Pin=U-E2
+Added Pin To Net: NetName=VDD_UNREG Pin=U-E3
+Added Pin To Net: NetName=GND Pin=U-E4
+Added Pin To Net: NetName=GND Pin=U-E5
+Added Pin To Net: NetName=GND Pin=U-E6
+Added Pin To Net: NetName=GND Pin=U-E7
+Added Pin To Net: NetName=GND Pin=U-E8
+Added Pin To Net: NetName=GND Pin=U-E9
+Added Pin To Net: NetName=GND Pin=U-E10
+Added Pin To Net: NetName=GND Pin=U-E11
+Added Pin To Net: NetName=GND Pin=U-E12
+Added Pin To Net: NetName=GND Pin=U-E13
+Added Pin To Net: NetName=GND Pin=U-E14
+Added Pin To Net: NetName=GND Pin=U-E15
+Added Pin To Net: NetName=GND Pin=U-E16
+Added Pin To Net: NetName=GND Pin=U-E17
+Added Pin To Net: NetName=GND Pin=U-E18
+Added Pin To Net: NetName=GND Pin=U-E19
+Added Pin To Net: NetName=GND Pin=U-E20
+Added Pin To Net: NetName=GND Pin=U-E21
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-E22
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-E23
+Added Pin To Net: NetName=VDD_UNREG Pin=U-E24
+Added Pin To Net: NetName=VDD_UNREG Pin=U-E25
+Added Pin To Net: NetName=GND Pin=U-E26
+Added Pin To Net: NetName=GND Pin=U-F1
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-F2
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-F3
+Added Pin To Net: NetName=GND Pin=U-F4
+Added Pin To Net: NetName=GND Pin=U-F5
+Added Pin To Net: NetName=GND Pin=U-F6
+Added Pin To Net: NetName=GND Pin=U-F7
+Added Pin To Net: NetName=GND Pin=U-F8
+Added Pin To Net: NetName=GND Pin=U-F9
+Added Pin To Net: NetName=GND Pin=U-F10
+Added Pin To Net: NetName=GND Pin=U-F11
+Added Pin To Net: NetName=GND Pin=U-F12
+Added Pin To Net: NetName=GND Pin=U-F13
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-F14
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-F15
+Added Pin To Net: NetName=GND Pin=U-F16
+Added Pin To Net: NetName=GND Pin=U-F17
+Added Pin To Net: NetName=GND Pin=U-F18
+Added Pin To Net: NetName=GND Pin=U-F19
+Added Pin To Net: NetName=GND Pin=U-F20
+Added Pin To Net: NetName=GND Pin=U-F21
+Added Pin To Net: NetName=GND Pin=U-F22
+Added Pin To Net: NetName=GND Pin=U-F23
+Added Pin To Net: NetName=GND Pin=U-F24
+Added Pin To Net: NetName=GND Pin=U-F25
+Added Pin To Net: NetName=GND Pin=U-F26
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-G2
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-G3
+Added Pin To Net: NetName=GND Pin=U-G4
+Added Pin To Net: NetName=GND Pin=U-G5
+Added Pin To Net: NetName=GND Pin=U-G6
+Added Pin To Net: NetName=GND Pin=U-G7
+Added Pin To Net: NetName=GND Pin=U-G8
+Added Pin To Net: NetName=GND Pin=U-G9
+Added Pin To Net: NetName=GND Pin=U-G10
+Added Pin To Net: NetName=GND Pin=U-G11
+Added Pin To Net: NetName=GND Pin=U-G12
+Added Pin To Net: NetName=GND Pin=U-G13
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-G14
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-G15
+Added Pin To Net: NetName=GND Pin=U-G16
+Added Pin To Net: NetName=GND Pin=U-G17
+Added Pin To Net: NetName=GND Pin=U-G18
+Added Pin To Net: NetName=GND Pin=U-G19
+Added Pin To Net: NetName=GND Pin=U-G20
+Added Pin To Net: NetName=GND Pin=U-G21
+Added Pin To Net: NetName=GND Pin=U-G22
+Added Pin To Net: NetName=GND Pin=U-G23
+Added Pin To Net: NetName=GND Pin=U-G24
+Added Pin To Net: NetName=GND Pin=U-G25
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-H2
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-H3
+Added Pin To Net: NetName=GND Pin=U-H4
+Added Pin To Net: NetName=GND Pin=U-H5
+Added Pin To Net: NetName=GND Pin=U-H6
+Added Pin To Net: NetName=GND Pin=U-H7
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-H8
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-H9
+Added Pin To Net: NetName=GND Pin=U-H10
+Added Pin To Net: NetName=GND Pin=U-H11
+Added Pin To Net: NetName=GND Pin=U-H12
+Added Pin To Net: NetName=GND Pin=U-H13
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-H14
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-H15
+Added Pin To Net: NetName=GND Pin=U-H16
+Added Pin To Net: NetName=GND Pin=U-H17
+Added Pin To Net: NetName=GND Pin=U-H18
+Added Pin To Net: NetName=GND Pin=U-H19
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-H20
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-H21
+Added Pin To Net: NetName=GND Pin=U-H22
+Added Pin To Net: NetName=GND Pin=U-H23
+Added Pin To Net: NetName=GND Pin=U-H24
+Added Pin To Net: NetName=GND Pin=U-H25
+Added Pin To Net: NetName=GND Pin=U-J1
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-J2
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-J3
+Added Pin To Net: NetName=GND Pin=U-J4
+Added Pin To Net: NetName=GND Pin=U-J5
+Added Pin To Net: NetName=GND Pin=U-J6
+Added Pin To Net: NetName=GND Pin=U-J7
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-J8
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-J9
+Added Pin To Net: NetName=GND Pin=U-J10
+Added Pin To Net: NetName=GND Pin=U-J11
+Added Pin To Net: NetName=GND Pin=U-J12
+Added Pin To Net: NetName=GND Pin=U-J13
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-J14
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-J15
+Added Pin To Net: NetName=GND Pin=U-J16
+Added Pin To Net: NetName=GND Pin=U-J17
+Added Pin To Net: NetName=GND Pin=U-J18
+Added Pin To Net: NetName=GND Pin=U-J19
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-J20
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-J21
+Added Pin To Net: NetName=GND Pin=U-J22
+Added Pin To Net: NetName=GND Pin=U-J23
+Added Pin To Net: NetName=GND Pin=U-J24
+Added Pin To Net: NetName=GND Pin=U-J25
+Added Pin To Net: NetName=GND Pin=U-J26
+Added Pin To Net: NetName=GND Pin=U-K2
+Added Pin To Net: NetName=GND Pin=U-K3
+Added Pin To Net: NetName=GND Pin=U-K4
+Added Pin To Net: NetName=GND Pin=U-K5
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-K6
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-K7
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-K8
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-K9
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-K10
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-K11
+Added Pin To Net: NetName=GND Pin=U-K12
+Added Pin To Net: NetName=GND Pin=U-K13
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-K14
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-K15
+Added Pin To Net: NetName=GND Pin=U-K16
+Added Pin To Net: NetName=GND Pin=U-K17
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-K18
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-K19
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-K20
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-K21
+Added Pin To Net: NetName=GND Pin=U-K22
+Added Pin To Net: NetName=GND Pin=U-K23
+Added Pin To Net: NetName=GND Pin=U-K24
+Added Pin To Net: NetName=GND Pin=U-K25
+Added Pin To Net: NetName=GND Pin=U-K26
+Added Pin To Net: NetName=GND Pin=U-L2
+Added Pin To Net: NetName=GND Pin=U-L3
+Added Pin To Net: NetName=GND Pin=U-L4
+Added Pin To Net: NetName=GND Pin=U-L5
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-L6
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-L7
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-L8
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-L9
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-L10
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-L11
+Added Pin To Net: NetName=GND Pin=U-L12
+Added Pin To Net: NetName=GND Pin=U-L13
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-L14
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-L15
+Added Pin To Net: NetName=GND Pin=U-L16
+Added Pin To Net: NetName=GND Pin=U-L17
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-L18
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-L19
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-L20
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-L21
+Added Pin To Net: NetName=GND Pin=U-L22
+Added Pin To Net: NetName=GND Pin=U-L23
+Added Pin To Net: NetName=GND Pin=U-L24
+Added Pin To Net: NetName=GND Pin=U-L25
+Added Pin To Net: NetName=GND Pin=U-M1
+Added Pin To Net: NetName=GND Pin=U-M2
+Added Pin To Net: NetName=GND Pin=U-M3
+Added Pin To Net: NetName=GND Pin=U-M4
+Added Pin To Net: NetName=GND Pin=U-M5
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-M6
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-M7
+Added Pin To Net: NetName=GND Pin=U-M8
+Added Pin To Net: NetName=GND Pin=U-M9
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-M10
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-M11
+Added Pin To Net: NetName=GND Pin=U-M12
+Added Pin To Net: NetName=GND Pin=U-M13
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-M14
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-M15
+Added Pin To Net: NetName=GND Pin=U-M16
+Added Pin To Net: NetName=GND Pin=U-M17
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-M18
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-M19
+Added Pin To Net: NetName=GND Pin=U-M20
+Added Pin To Net: NetName=GND Pin=U-M21
+Added Pin To Net: NetName=GND Pin=U-M22
+Added Pin To Net: NetName=GND Pin=U-M23
+Added Pin To Net: NetName=GND Pin=U-M24
+Added Pin To Net: NetName=GND Pin=U-M25
+Added Pin To Net: NetName=GND Pin=U-M26
+Added Pin To Net: NetName=GND Pin=U-N2
+Added Pin To Net: NetName=GND Pin=U-N3
+Added Pin To Net: NetName=GND Pin=U-N4
+Added Pin To Net: NetName=GND Pin=U-N5
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-N6
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-N7
+Added Pin To Net: NetName=GND Pin=U-N8
+Added Pin To Net: NetName=GND Pin=U-N9
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-N10
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-N11
+Added Pin To Net: NetName=GND Pin=U-N12
+Added Pin To Net: NetName=GND Pin=U-N13
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-N14
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-N15
+Added Pin To Net: NetName=GND Pin=U-N16
+Added Pin To Net: NetName=GND Pin=U-N17
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-N18
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-N19
+Added Pin To Net: NetName=GND Pin=U-N20
+Added Pin To Net: NetName=GND Pin=U-N21
+Added Pin To Net: NetName=GND Pin=U-N22
+Added Pin To Net: NetName=GND Pin=U-N23
+Added Pin To Net: NetName=GND Pin=U-N24
+Added Pin To Net: NetName=GND Pin=U-N25
+Added Pin To Net: NetName=GND Pin=U-P8
+Added Pin To Net: NetName=GND Pin=U-P9
+Added Pin To Net: NetName=GND Pin=U-P10
+Added Pin To Net: NetName=GND Pin=U-P11
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-P12
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-P13
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-P14
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-P15
+Added Pin To Net: NetName=GND Pin=U-P16
+Added Pin To Net: NetName=GND Pin=U-P17
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-P18
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-P19
+Added Pin To Net: NetName=GND Pin=U-P21
+Added Pin To Net: NetName=GND Pin=U-P22
+Added Pin To Net: NetName=GND Pin=U-P24
+Added Pin To Net: NetName=GND Pin=U-P25
+Added Pin To Net: NetName=GND Pin=U-R1
+Added Pin To Net: NetName=GND Pin=U-R8
+Added Pin To Net: NetName=GND Pin=U-R9
+Added Pin To Net: NetName=GND Pin=U-R10
+Added Pin To Net: NetName=GND Pin=U-R11
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-R12
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-R13
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-R14
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-R15
+Added Pin To Net: NetName=GND Pin=U-R16
+Added Pin To Net: NetName=GND Pin=U-R17
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-R18
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-R19
+Added Pin To Net: NetName=GND Pin=U-R26
+Added Pin To Net: NetName=GND Pin=U-T2
+Added Pin To Net: NetName=GND Pin=U-T3
+Added Pin To Net: NetName=GND Pin=U-T5
+Added Pin To Net: NetName=GND Pin=U-T6
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-T8
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-T9
+Added Pin To Net: NetName=GND Pin=U-T10
+Added Pin To Net: NetName=GND Pin=U-T11
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-T12
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-T13
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-T14
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-T15
+Added Pin To Net: NetName=GND Pin=U-T16
+Added Pin To Net: NetName=GND Pin=U-T17
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-T18
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-T19
+Added Pin To Net: NetName=GND Pin=U-U2
+Added Pin To Net: NetName=GND Pin=U-U3
+Added Pin To Net: NetName=GND Pin=U-U4
+Added Pin To Net: NetName=GND Pin=U-U5
+Added Pin To Net: NetName=GND Pin=U-U6
+Added Pin To Net: NetName=GND Pin=U-U7
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-U8
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-U9
+Added Pin To Net: NetName=GND Pin=U-U10
+Added Pin To Net: NetName=GND Pin=U-U11
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-U12
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-U13
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-U14
+Added Pin To Net: NetName=VDD_LO_NW_FER Pin=U-U15
+Added Pin To Net: NetName=GND Pin=U-U16
+Added Pin To Net: NetName=GND Pin=U-U17
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-U18
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-U19
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-U20
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-U21
+Added Pin To Net: NetName=GND Pin=U-U22
+Added Pin To Net: NetName=GND Pin=U-U23
+Added Pin To Net: NetName=GND Pin=U-U24
+Added Pin To Net: NetName=GND Pin=U-U25
+Added Pin To Net: NetName=GND Pin=U-V1
+Added Pin To Net: NetName=GND Pin=U-V2
+Added Pin To Net: NetName=GND Pin=U-V3
+Added Pin To Net: NetName=GND Pin=U-V4
+Added Pin To Net: NetName=GND Pin=U-V5
+Added Pin To Net: NetName=GND Pin=U-V6
+Added Pin To Net: NetName=GND Pin=U-V7
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-V8
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-V9
+Added Pin To Net: NetName=GND Pin=U-V10
+Added Pin To Net: NetName=GND Pin=U-V11
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-V12
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-V13
+Added Pin To Net: NetName=GND Pin=U-V14
+Added Pin To Net: NetName=GND Pin=U-V15
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-V16
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-V17
+Added Pin To Net: NetName=GND Pin=U-V18
+Added Pin To Net: NetName=GND Pin=U-V19
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-V20
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-V21
+Added Pin To Net: NetName=GND Pin=U-V22
+Added Pin To Net: NetName=GND Pin=U-V23
+Added Pin To Net: NetName=GND Pin=U-V24
+Added Pin To Net: NetName=GND Pin=U-V25
+Added Pin To Net: NetName=GND Pin=U-V26
+Added Pin To Net: NetName=GND Pin=U-W1
+Added Pin To Net: NetName=GND Pin=U-W2
+Added Pin To Net: NetName=GND Pin=U-W3
+Added Pin To Net: NetName=GND Pin=U-W4
+Added Pin To Net: NetName=GND Pin=U-W5
+Added Pin To Net: NetName=GND Pin=U-W6
+Added Pin To Net: NetName=GND Pin=U-W7
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-W8
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-W9
+Added Pin To Net: NetName=GND Pin=U-W10
+Added Pin To Net: NetName=GND Pin=U-W11
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-W12
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-W13
+Added Pin To Net: NetName=GND Pin=U-W14
+Added Pin To Net: NetName=GND Pin=U-W15
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-W16
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-W17
+Added Pin To Net: NetName=GND Pin=U-W18
+Added Pin To Net: NetName=GND Pin=U-W19
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-W20
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-W21
+Added Pin To Net: NetName=GND Pin=U-W22
+Added Pin To Net: NetName=GND Pin=U-W23
+Added Pin To Net: NetName=GND Pin=U-W24
+Added Pin To Net: NetName=GND Pin=U-W25
+Added Pin To Net: NetName=GND Pin=U-W26
+Added Pin To Net: NetName=GND Pin=U-Y2
+Added Pin To Net: NetName=GND Pin=U-Y3
+Added Pin To Net: NetName=GND Pin=U-Y4
+Added Pin To Net: NetName=GND Pin=U-Y5
+Added Pin To Net: NetName=GND Pin=U-Y6
+Added Pin To Net: NetName=GND Pin=U-Y7
+Added Pin To Net: NetName=GND Pin=U-Y8
+Added Pin To Net: NetName=GND Pin=U-Y9
+Added Pin To Net: NetName=GND Pin=U-Y10
+Added Pin To Net: NetName=GND Pin=U-Y11
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-Y12
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-Y13
+Added Pin To Net: NetName=GND Pin=U-Y14
+Added Pin To Net: NetName=GND Pin=U-Y15
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-Y16
+Added Pin To Net: NetName=VDD_A_NW_FER Pin=U-Y17
+Added Pin To Net: NetName=GND Pin=U-Y18
+Added Pin To Net: NetName=GND Pin=U-Y19
+Added Pin To Net: NetName=GND Pin=U-Y20
+Added Pin To Net: NetName=GND Pin=U-Y21
+Added Pin To Net: NetName=GND Pin=U-Y22
+Added Pin To Net: NetName=GND Pin=U-Y23
+Added Pin To Net: NetName=GND Pin=U-Y24
+Added Pin To Net: NetName=GND Pin=U-Y25
+Change Net Name : Old Net Name=clk_bb16_SMA New Net Name=NetBL2_6
+Change Net Name : Old Net Name=clk_bb16_vcm New Net Name=NetC30_1
+Change Net Name : Old Net Name=GND New Net Name=VSS
+Change Net Name : Old Net Name=ref_clk_SMA New Net Name=LO_OVERRIDE_SMA
+Change Net Name : Old Net Name=VDD_A_NW_EN New Net Name=DVDD_EN
+Change Net Name : Old Net Name=VDD_A_NW_FER New Net Name=DVDD
+Change Net Name : Old Net Name=VDD_A_NW_REG New Net Name=DVDD_REG
+Change Net Name : Old Net Name=VDD_A_NW_RS New Net Name=DVDD_RS
+Change Net Name : Old Net Name=VDD_D_EN New Net Name=VDD_LINK_EN
+Change Net Name : Old Net Name=VDD_D_FER New Net Name=VDD_LINK
+Change Net Name : Old Net Name=VDD_D_REG New Net Name=VDD_LINK_REG
+Change Net Name : Old Net Name=VDD_D_RS New Net Name=VDD_LINK_RS
+Change Net Name : Old Net Name=VDD_LO_NW_EN New Net Name=VDDA_EN
+Change Net Name : Old Net Name=VDD_LO_NW_FER New Net Name=VDDA
+Change Net Name : Old Net Name=VDD_LO_NW_REG New Net Name=VDDA_REG
+Change Net Name : Old Net Name=VDD_LO_NW_RS New Net Name=VDDA_RS
+Change Net Name : Old Net Name=VDD_UNREG New Net Name=VDD_IO
+Change Net Name : Old Net Name=VDD_UNREG_EN New Net Name=VDD_IO_EN
+Change Net Name : Old Net Name=VDD_UNREG_FB New Net Name=VDD_IO_FB
+Change Net Name : Old Net Name=VDD_UNREG_REG New Net Name=VDD_IO_REG
+Change Net Name : Old Net Name=VDD_UNREG_RS New Net Name=VDD_IO_RS
+Added Pin To Net: NetName=ANA_MUX_N Pin=C85-1
+Added Pin To Net: NetName=ANA_MUX_N Pin=U-H26
+Added Net: Name=ANA_MUX_N
+Added Pin To Net: NetName=ANA_MUX_P Pin=C84-1
+Added Pin To Net: NetName=ANA_MUX_P Pin=U-G26
+Added Net: Name=ANA_MUX_P
+Added Pin To Net: NetName=ANT_0_N Pin=SMA2-1
+Added Pin To Net: NetName=ANT_0_N Pin=U-D1
+Added Net: Name=ANT_0_N
+Added Pin To Net: NetName=ANT_0_P Pin=SMA1-1
+Added Pin To Net: NetName=ANT_0_P Pin=U-C1
+Added Net: Name=ANT_0_P
+Added Pin To Net: NetName=ANT_1_N Pin=SMA6-1
+Added Pin To Net: NetName=ANT_1_N Pin=U-AD1
+Added Net: Name=ANT_1_N
+Added Pin To Net: NetName=ANT_1_P Pin=SMA5-1
+Added Pin To Net: NetName=ANT_1_P Pin=U-AC1
+Added Net: Name=ANT_1_P
+Added Pin To Net: NetName=ANT_2_N Pin=SMA10-1
+Added Pin To Net: NetName=ANT_2_N Pin=U-AD26
+Added Net: Name=ANT_2_N
+Added Pin To Net: NetName=ANT_2_P Pin=SMA9-1
+Added Pin To Net: NetName=ANT_2_P Pin=U-AC26
+Added Net: Name=ANT_2_P
+Added Pin To Net: NetName=ANT_3_N Pin=SMA12-1
+Added Pin To Net: NetName=ANT_3_N Pin=U-D26
+Added Net: Name=ANT_3_N
+Added Pin To Net: NetName=ANT_3_P Pin=SMA11-1
+Added Pin To Net: NetName=ANT_3_P Pin=U-C26
+Added Net: Name=ANT_3_P
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_N Pin=BL2-3
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_N Pin=U-AA26
+Added Net: Name=CLK_DIG_OVERRIDE_N
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_P Pin=BL2-1
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_P Pin=U-Y26
+Added Net: Name=CLK_DIG_OVERRIDE_P
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_VCM Pin=BL2-2
+Added Net: Name=CLK_DIG_OVERRIDE_VCM
+Added Pin To Net: NetName=DVDD_FB Pin=U2-1
+Added Pin To Net: NetName=DVDD_FB Pin=U3-16
+Added Net: Name=DVDD_FB
+Added Pin To Net: NetName=LINK_CM_RX_1_N Pin=U-A15
+Added Net: Name=LINK_CM_RX_1_N
+Added Pin To Net: NetName=LINK_CM_RX_1_P Pin=U-A14
+Added Net: Name=LINK_CM_RX_1_P
+Added Pin To Net: NetName=LINK_CM_TX_1_N Pin=U-A18
+Added Net: Name=LINK_CM_TX_1_N
+Added Pin To Net: NetName=LINK_CM_TX_1_P Pin=U-A17
+Added Net: Name=LINK_CM_TX_1_P
+Added Pin To Net: NetName=LO_OVERRIDE_N Pin=BL5-2
+Added Pin To Net: NetName=LO_OVERRIDE_N Pin=U-H1
+Added Net: Name=LO_OVERRIDE_N
+Added Pin To Net: NetName=LO_OVERRIDE_P Pin=BL5-1
+Added Pin To Net: NetName=LO_OVERRIDE_P Pin=U-G1
+Added Net: Name=LO_OVERRIDE_P
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U2-7
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U2-8
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R12-1
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=R14-1
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=RESET_FPGA Pin=P1-6
+Added Pin To Net: NetName=RESET_FPGA Pin=U4-5
+Added Net: Name=RESET_FPGA
+Added Pin To Net: NetName=RESET Pin=H9-8
+Added Pin To Net: NetName=RESET Pin=U4-7
+Added Pin To Net: NetName=RESET Pin=U-K1
+Added Net: Name=RESET
+Added Pin To Net: NetName=SCAN_CLK Pin=H9-2
+Added Pin To Net: NetName=SCAN_CLK Pin=U4-8
+Added Pin To Net: NetName=SCAN_CLK Pin=U-A5
+Added Net: Name=SCAN_CLK
+Added Pin To Net: NetName=SCAN_EN Pin=H9-4
+Added Pin To Net: NetName=SCAN_EN Pin=U4-9
+Added Pin To Net: NetName=SCAN_EN Pin=U-A4
+Added Net: Name=SCAN_EN
+Added Pin To Net: NetName=SCAN_IN Pin=H9-6
+Added Pin To Net: NetName=SCAN_IN Pin=U4-10
+Added Pin To Net: NetName=SCAN_IN Pin=U-A3
+Added Net: Name=SCAN_IN
+Added Pin To Net: NetName=SCAN_OUT Pin=H9-12
+Added Pin To Net: NetName=SCAN_OUT Pin=U7-2
+Added Pin To Net: NetName=SCAN_OUT Pin=U-A6
+Added Net: Name=SCAN_OUT
+Added Pin To Net: NetName=VDD_LINK_FB Pin=U2-13
+Added Pin To Net: NetName=VDD_LINK_FB Pin=U16-16
+Added Net: Name=VDD_LINK_FB
+Added Pin To Net: NetName=VDDA_FB Pin=U1-16
+Added Pin To Net: NetName=VDDA_FB Pin=U2-6
+Added Net: Name=VDDA_FB
+Change Class Name : Old Net Name=Top_Sheet New Net Name=Top
+Added Class: Name=U_Fader2
+Added Differential Pair: Name=ANA_MUX
+Added Differential Pair: Name=ANT_0
+Added Differential Pair: Name=ANT_1
+Added Differential Pair: Name=ANT_2
+Added Differential Pair: Name=ANT_3
+Added Differential Pair: Name=CLK_DIG_OVERRIDE
+Added Differential Pair: Name=LO_OVERRIDE
+Added Member To Class: ClassName=Top Member=Component H8 Header_3
+Added Member To Class: ClassName=Top Member=Component H9 Header 6X2
+Added Member To Class: ClassName=Top Member=Component H11 Header_3
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component R4 2.67Kohm
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component R7 0ohm
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA5 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA6 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA9 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA10 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA11 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA12 SMA high freq
+Added Room: Name=Top
+Added Room: Name=U_BB_analog
+Added Room: Name=U_Fader2
+Added Room: Name=U_FPGA_interface
+Added Room: Name=U_Lvl_Shifters
+Added Room: Name=U_SMA_RF_CLK
+Added Room: Name=U_Supplies_Isense
+Added Room: Name=U_Supplies_LDO
+Added Room: Name=U_Supplies_Pots

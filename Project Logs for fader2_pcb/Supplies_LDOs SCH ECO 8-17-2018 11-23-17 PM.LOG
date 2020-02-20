@@ -1,0 +1,6 @@
+Replace Part TP_DVDD Test_Point in D:\Altium\fader2_pcb\Supplies_LDOs.SchDoc with Test_Point from fader2_parts.SchLib
+Replace Part TP_GATE_LINK Test_Point in D:\Altium\fader2_pcb\Supplies_LDOs.SchDoc with Test_Point from fader2_parts.SchLib
+Replace Part TP_VDD_BUFFER Test_Point in D:\Altium\fader2_pcb\Supplies_LDOs.SchDoc with Test_Point from fader2_parts.SchLib
+Replace Part TP_VDD_IO Test_Point in D:\Altium\fader2_pcb\Supplies_LDOs.SchDoc with Test_Point from fader2_parts.SchLib
+Replace Part TP_VDD_LINK Test_Point in D:\Altium\fader2_pcb\Supplies_LDOs.SchDoc with Test_Point from fader2_parts.SchLib
+Replace Part TP_VDDA Test_Point in D:\Altium\fader2_pcb\Supplies_LDOs.SchDoc with Test_Point from fader2_parts.SchLib

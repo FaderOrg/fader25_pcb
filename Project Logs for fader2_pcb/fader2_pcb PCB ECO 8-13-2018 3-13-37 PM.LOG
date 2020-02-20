@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=PWRADJ Pin=R51-1
+Removed Pin From Net: NetName=VSS Pin=R51-2
+Removed Member From Class: ClassName=U_BB_analog Member=R51

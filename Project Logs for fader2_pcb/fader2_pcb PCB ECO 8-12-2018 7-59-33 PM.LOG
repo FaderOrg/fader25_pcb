@@ -1,0 +1,8 @@
+Added Component: Designator=H20(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3469-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68001-202HLF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=H20-1
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=H20-2
+Added Class: Name=U_Supplies

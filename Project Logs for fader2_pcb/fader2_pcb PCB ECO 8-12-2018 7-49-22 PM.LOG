@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=H3 NewDesignator=EN_VDD_IO
+Added Member To Class: ClassName=U_Fader2 Member=Component U2 
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component U2 AD5254

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=ANT_3_N Pin=SMA10-1
+Added Pin To Net: NetName=VSS Pin=SMA10-2
+Added Pin To Net: NetName=VSS Pin=SMA10-3
+Added Pin To Net: NetName=VSS Pin=SMA10-4
+Added Pin To Net: NetName=VSS Pin=SMA10-5
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA10 SMA high freq

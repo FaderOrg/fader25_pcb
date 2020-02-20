@@ -1,0 +1,78 @@
+Change Component Comment : Designator=R73 Old Comment=3.48Kohm New Comment=300ohm
+Change Component Comment : Designator=R72 Old Comment=3Kohm New Comment=1.5Kohm
+Change component parameters: Designator = "R72"; Footprint = "0603"; UniqueID = "\ASGAKNBX\URCKYRBD\IMOJWXPA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "P1.5KDBCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "ERA-3AEB152V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R73"; Footprint = "0603"; UniqueID = "\ASGAKNBX\URCKYRBD\PRUGAEDK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "P300DBCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "ERA-3AEB301V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C63-1
+Added Pin To Net: NetName=VSS Pin=C63-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C64-1
+Added Pin To Net: NetName=VSS Pin=C64-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C95-1
+Added Pin To Net: NetName=VSS Pin=C95-2
+Added Pin To Net: NetName=NetC96_1 Pin=C96-1
+Added Pin To Net: NetName=VSS Pin=C96-2
+Added Pin To Net: NetName=VDD_IN Pin=C113-1
+Added Pin To Net: NetName=VSS Pin=C113-2
+Added Pin To Net: NetName=GATE_LINK_REG Pin=C114-1
+Added Pin To Net: NetName=VSS Pin=C114-2
+Added Pin To Net: NetName=GATE_LINK_RS Pin=FB7-1
+Added Pin To Net: NetName=GATE_LINK Pin=FB7-2
+Added Pin To Net: NetName=GATE_LINK_RS Pin=H12-1
+Added Pin To Net: NetName=GATE_LINK_RS Pin=H12-2
+Added Pin To Net: NetName=GATE_LINK_REG Pin=R4-1
+Added Pin To Net: NetName=GATE_LINK_RS Pin=R4-2
+Added Pin To Net: NetName=VSS Pin=R72-1
+Added Pin To Net: NetName=NetR72_2 Pin=R72-2
+Added Pin To Net: NetName=NetR73_1 Pin=R73-1
+Added Pin To Net: NetName=GATE_LINK_REG Pin=R73-2
+Added Pin To Net: NetName=GATE_LINK_REG Pin=U21-1
+Added Pin To Net: NetName=VDD_IN Pin=U21-5
+Added Pin To Net: NetName=VDD_IN Pin=U21-6
+Added Pin To Net: NetName=VDD_IN Pin=U21-7
+Added Pin To Net: NetName=VDD_IN Pin=U21-8
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U21-10
+Added Pin To Net: NetName=GATE_LINK_EN Pin=U21-11
+Added Pin To Net: NetName=VSS Pin=U21-12
+Added Pin To Net: NetName=NetC96_1 Pin=U21-15
+Added Pin To Net: NetName=GATE_LINK_FB Pin=U21-16
+Added Pin To Net: NetName=GATE_LINK_REG Pin=U21-18
+Added Pin To Net: NetName=GATE_LINK_REG Pin=U21-19
+Added Pin To Net: NetName=GATE_LINK_REG Pin=U21-20
+Added Pin To Net: NetName=VSS Pin=U21-21
+Added Pin To Net: NetName=VSS Pin=U22-4
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U22-5
+Added Pin To Net: NetName=I2C_SDA_V Pin=U22-9
+Added Pin To Net: NetName=VSS Pin=U22-10
+Added Pin To Net: NetName=I2C_SCL_V Pin=U22-14
+Added Pin To Net: NetName=VSS Pin=U22-15
+Added Pin To Net: NetName=VSS Pin=U22-16
+Added Pin To Net: NetName=NetR73_1 Pin=U22-17
+Added Pin To Net: NetName=NetR72_2 Pin=U22-18
+Added Pin To Net: NetName=GATE_LINK_FB Pin=U22-19
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U22-20
+Change Differential Pair Positive Net Name : Old Net Name=rx_buf_in_P New Net Name=rx_buf_in_P
+Change Differential Pair Positive Net Name : Old Net Name=rx_buf_out_P New Net Name=rx_buf_out_P
+Change Differential Pair Negative Net Name : Old Net Name=rx_buf_in_N New Net Name=rx_buf_in_N
+Change Differential Pair Negative Net Name : Old Net Name=rx_buf_out_N New Net Name=rx_buf_out_N
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component C63 100nF
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component C64 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C95 1uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C96 10nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C113 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C114 1uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component FB7 Ferrite Bead
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H12 Header_2
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component R4 0.11ohm
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component R72 1.5Kohm
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component R73 300ohm
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component U21 TPS74201
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component U22 AD5254

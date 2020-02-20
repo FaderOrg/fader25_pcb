@@ -1,0 +1,122 @@
+*************************************************************
+FileName = fader2_blind_vias_pcb.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\matrix\matrix
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\profile
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\stephdr
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\top\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\top\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\l2\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\l2\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\l3\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\l3\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\l4\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\l4\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\l5\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\l5\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\bot\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\bot\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\drill1\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\drill1\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\drill1\tools
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\drill2\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\drill2\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\drill2\tools
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\drill3\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\drill3\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\drill3\tools
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\mechanical_1\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\mechanical_1\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\mechanical_13\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\mechanical_13\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\mechanical_15\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\mechanical_15\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\mechanical_16\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\mechanical_16\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\assembly_top\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\assembly_top\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\assembly_bot\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\assembly_bot\attrlist
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : D:\Altium\fader2_pcb\Project Outputs for fader2_pcb\ODB\odb\steps\pcb\eda\data
+

@@ -1,0 +1,25 @@
+Added Component: Designator=SMA7(THRU_SMD_SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "ACX1962-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "132134-15"; VariantName = "[No Variations]"
+Added Component: Designator=SMA8(THRU_SMD_SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "ACX1962-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "132134-15"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ANT_2_P Pin=SMA7-1
+Added Pin To Net: NetName=VSS Pin=SMA7-2
+Added Pin To Net: NetName=VSS Pin=SMA7-3
+Added Pin To Net: NetName=VSS Pin=SMA7-4
+Added Pin To Net: NetName=VSS Pin=SMA7-5
+Added Pin To Net: NetName=ANT_2_N Pin=SMA8-1
+Added Pin To Net: NetName=VSS Pin=SMA8-2
+Added Pin To Net: NetName=VSS Pin=SMA8-3
+Added Pin To Net: NetName=VSS Pin=SMA8-4
+Added Pin To Net: NetName=VSS Pin=SMA8-5
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component FB5 Ferrite Bead
+Added Member To Class: ClassName=U_BB_analog Member=Component SMA7 SMA low freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA7 SMA high freq
+Added Member To Class: ClassName=U_BB_analog Member=Component SMA8 SMA low freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA8 SMA high freq

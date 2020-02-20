@@ -1,0 +1,18 @@
+Change Component Library : Designator=TP_ANA_N Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=TP_ANA_P Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=TP_DVDD Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=TP_GATE_LINK Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=TP_VDD_BUFFER Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=TP_VDD_IO Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=TP_VDD_LINK Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=TP_VDDA Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=U2 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=U22 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Kind : Designator=TP_VDDA Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=TP_VDD_LINK Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=TP_VDD_IO Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=TP_VDD_BUFFER Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=TP_GATE_LINK Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=TP_DVDD Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=TP_ANA_P Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=TP_ANA_N Old Kind=Standard (No BOM) New Kind=Standard

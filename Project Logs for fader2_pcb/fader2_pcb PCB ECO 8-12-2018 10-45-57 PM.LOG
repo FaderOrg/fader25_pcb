@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=NetU2_A20 Pin=U2-A20
+Added Pin To Net: NetName=NetU2_A20 Pin=U2-A21
+Added Net: Name=NetU2_A20
+Added Pin To Net: NetName=NetU2_A23 Pin=U2-A23
+Added Pin To Net: NetName=NetU2_A23 Pin=U2-A24
+Added Net: Name=NetU2_A23
+Added Pin To Net: NetName=NetU2_AF20 Pin=U2-AF20
+Added Pin To Net: NetName=NetU2_AF20 Pin=U2-AF21
+Added Net: Name=NetU2_AF20
+Added Pin To Net: NetName=NetU2_AF23 Pin=U2-AF23
+Added Pin To Net: NetName=NetU2_AF23 Pin=U2-AF24
+Added Net: Name=NetU2_AF23
+Added Pin To Net: NetName=NetU2_N1 Pin=U2-N1
+Added Pin To Net: NetName=NetU2_N1 Pin=U2-P1
+Added Net: Name=NetU2_N1
+Added Pin To Net: NetName=NetU2_N26 Pin=U2-N26
+Added Pin To Net: NetName=NetU2_N26 Pin=U2-P26
+Added Net: Name=NetU2_N26
+Added Pin To Net: NetName=NetU2_T1 Pin=U2-T1
+Added Pin To Net: NetName=NetU2_T1 Pin=U2-U1
+Added Net: Name=NetU2_T1
+Added Pin To Net: NetName=NetU2_T26 Pin=U2-T26
+Added Pin To Net: NetName=NetU2_T26 Pin=U2-U26
+Added Net: Name=NetU2_T26

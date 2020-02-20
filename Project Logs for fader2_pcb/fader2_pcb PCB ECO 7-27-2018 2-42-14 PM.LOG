@@ -1,0 +1,65 @@
+Added Pin To Net: NetName=VSS Pin=SMA3-2
+Added Pin To Net: NetName=VSS Pin=SMA3-3
+Added Pin To Net: NetName=VSS Pin=SMA3-4
+Added Pin To Net: NetName=VSS Pin=SMA3-5
+Added Pin To Net: NetName=VSS Pin=SMA4-2
+Added Pin To Net: NetName=VSS Pin=SMA4-3
+Added Pin To Net: NetName=VSS Pin=SMA4-4
+Added Pin To Net: NetName=VSS Pin=SMA4-5
+Added Pin To Net: NetName=VSS Pin=SMA5-2
+Added Pin To Net: NetName=VSS Pin=SMA5-3
+Added Pin To Net: NetName=VSS Pin=SMA5-4
+Added Pin To Net: NetName=VSS Pin=SMA5-5
+Added Pin To Net: NetName=VSS Pin=SMA6-2
+Added Pin To Net: NetName=VSS Pin=SMA6-3
+Added Pin To Net: NetName=VSS Pin=SMA6-4
+Added Pin To Net: NetName=VSS Pin=SMA6-5
+Added Pin To Net: NetName=VSS Pin=SMA9-2
+Added Pin To Net: NetName=VSS Pin=SMA9-3
+Added Pin To Net: NetName=VSS Pin=SMA9-4
+Added Pin To Net: NetName=VSS Pin=SMA9-5
+Added Pin To Net: NetName=VSS Pin=SMA11-2
+Added Pin To Net: NetName=VSS Pin=SMA11-3
+Added Pin To Net: NetName=VSS Pin=SMA11-4
+Added Pin To Net: NetName=VSS Pin=SMA11-5
+Added Pin To Net: NetName=VSS Pin=SMA13-2
+Added Pin To Net: NetName=VSS Pin=SMA13-3
+Added Pin To Net: NetName=VSS Pin=SMA13-4
+Added Pin To Net: NetName=VSS Pin=SMA13-5
+Added Pin To Net: NetName=VSS Pin=SMA17-2
+Added Pin To Net: NetName=VSS Pin=SMA17-3
+Added Pin To Net: NetName=VSS Pin=SMA17-4
+Added Pin To Net: NetName=VSS Pin=SMA17-5
+Added Pin To Net: NetName=VSS Pin=SMA18-2
+Added Pin To Net: NetName=VSS Pin=SMA18-3
+Added Pin To Net: NetName=VSS Pin=SMA18-4
+Added Pin To Net: NetName=VSS Pin=SMA18-5
+Added Pin To Net: NetName=VSS Pin=SMA20-2
+Added Pin To Net: NetName=VSS Pin=SMA20-3
+Added Pin To Net: NetName=VSS Pin=SMA20-4
+Added Pin To Net: NetName=VSS Pin=SMA20-5
+Added Pin To Net: NetName=VSS Pin=SMA21-2
+Added Pin To Net: NetName=VSS Pin=SMA21-3
+Added Pin To Net: NetName=VSS Pin=SMA21-4
+Added Pin To Net: NetName=VSS Pin=SMA21-5
+Added Pin To Net: NetName=VSS Pin=SMA22-2
+Added Pin To Net: NetName=VSS Pin=SMA22-3
+Added Pin To Net: NetName=VSS Pin=SMA22-4
+Added Pin To Net: NetName=VSS Pin=SMA22-5
+Added Pin To Net: NetName=VSS Pin=SMA23-2
+Added Pin To Net: NetName=VSS Pin=SMA23-3
+Added Pin To Net: NetName=VSS Pin=SMA23-4
+Added Pin To Net: NetName=VSS Pin=SMA23-5
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA3 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA4 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA5 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA6 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA9 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA11 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA13 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA17 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA18 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA20 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA21 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA22 SMA high freq
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA23 SMA high freq

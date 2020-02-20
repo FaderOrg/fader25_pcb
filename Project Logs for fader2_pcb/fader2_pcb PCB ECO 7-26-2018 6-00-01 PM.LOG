@@ -1,0 +1,810 @@
+Change Component Comment : Designator=R40 Old Comment=1.5Kohm New Comment=2.67Kohm
+Change Component Comment : Designator=R1 Old Comment=2Kohm New Comment=2.67Kohm
+Change Component Comment : Designator=R52 Old Comment=300ohm New Comment=0ohm
+Change Component Comment : Designator=R9 Old Comment=300ohm New Comment=930ohm
+Change component parameters: Designator = "R1"; Footprint = "0603"; UniqueID = "\ASGAKNBX\URCKYRBD\LDHKKBWM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "P2.67KDBCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "ERA-3AEB2671V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40"; Footprint = "0603"; UniqueID = "\ASGAKNBX\URCKYRBD\TCWLOVOV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "P2.67KDBCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "ERA-3AEB2671V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R52"; Footprint = "0603"; UniqueID = "\ASGAKNBX\URCKYRBD\REVBKFLF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "0603"; UniqueID = "\ASGAKNBX\URCKYRBD\UOOACIBO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "311-2391-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "RT0603DRD07931RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-7763-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM155R71H103JA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-6113-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM0335C1H101JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-4524-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM32ER71C226KE18L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-4524-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM32ER71C226KE18L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C19(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "445-13819-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "C1005X5R1A335K050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3uF"; VariantName = "[No Variations]"
+Added Component: Designator=C20(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-5418-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM155R71C224KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C21(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-7763-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM155R71H103JA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Added Component: Designator=C22(0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-6113-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM0335C1H101JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C30(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-5418-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM155R71C224KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C34(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "445-13819-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "C1005X5R1A335K050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3uF"; VariantName = "[No Variations]"
+Added Component: Designator=C35(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-5418-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM155R71C224KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C36(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-7763-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM155R71H103JA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Added Component: Designator=C48(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "445-13819-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "C1005X5R1A335K050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3uF"; VariantName = "[No Variations]"
+Added Component: Designator=C49(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-5418-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM155R71C224KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C50(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-7763-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM155R71H103JA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Added Component: Designator=C51(0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-6113-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM0335C1H101JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C52(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "445-13819-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "C1005X5R1A335K050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3uF"; VariantName = "[No Variations]"
+Added Component: Designator=C53(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-5418-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM155R71C224KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C95(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-3890-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM155R61A105KE15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C96(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-7763-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM155R71H103JA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Added Component: Designator=C98(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-7763-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM155R71H103JA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Added Component: Designator=C99(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "445-13819-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "C1005X5R1A335K050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3uF"; VariantName = "[No Variations]"
+Added Component: Designator=C100(0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-6113-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM0335C1H101JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C103(0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-6113-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM0335C1H101JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C113(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "445-13819-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "C1005X5R1A335K050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3uF"; VariantName = "[No Variations]"
+Added Component: Designator=C114(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-3890-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM155R61A105KE15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C115(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "445-13819-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "C1005X5R1A335K050BC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3uF"; VariantName = "[No Variations]"
+Added Component: Designator=C116(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-5418-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM155R71C224KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C117(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-7763-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM155R71H103JA88D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Added Component: Designator=C118(0201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "490-6113-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "GRM0335C1H101JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=FB7(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey ID"; Value = "732-1592-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "300 Ohm @ 100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "742792641"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=H1(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3469-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68001-202HLF"; VariantName = "[No Variations]"
+Added Component: Designator=H7(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3461-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68000-103HLF"; VariantName = "[No Variations]"
+Added Component: Designator=H8(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3469-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68001-202HLF"; VariantName = "[No Variations]"
+Added Component: Designator=H10(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3469-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68001-202HLF"; VariantName = "[No Variations]"
+Added Component: Designator=H11(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3469-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68001-202HLF"; VariantName = "[No Variations]"
+Added Component: Designator=H12(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3469-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68001-202HLF"; VariantName = "[No Variations]"
+Added Component: Designator=H16(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3461-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68000-103HLF"; VariantName = "[No Variations]"
+Added Component: Designator=H17(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3469-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68001-202HLF"; VariantName = "[No Variations]"
+Added Component: Designator=H19(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3461-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68000-103HLF"; VariantName = "[No Variations]"
+Added Component: Designator=H21(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3461-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68000-103HLF"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "P4.32KDBCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "ERA-3AEB4321V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R4(1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "RL16R.11FCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "RL1632R-R110-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Added Component: Designator=R36(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "P13KDBCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "ERA-3AEB133V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R72(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "P1.5KDBCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "ERA-3AEB152V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R73(0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "P300DBCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "ERA-3AEB301V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(Test_Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(Test_Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP3(Test_Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP4(Test_Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U21(TPS74201)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "296-19890-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "55mV @ 1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "0.86V-5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "TPS74201RGWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "0.8V-3.6V"; VariantName = "[No Variations]"
+Added Component: Designator=U22(AD5254)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "AD5254BRUZ1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "AD5254BRUZ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_IN Pin=C1-1
+Added Pin To Net: NetName=VSS Pin=C1-2
+Added Pin To Net: NetName=VDDA_REG Pin=C2-1
+Added Pin To Net: NetName=VSS Pin=C2-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C3-1
+Added Pin To Net: NetName=VSS Pin=C3-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C4-1
+Added Pin To Net: NetName=VSS Pin=C4-2
+Added Pin To Net: NetName=VDDA Pin=C5-1
+Added Pin To Net: NetName=VSS Pin=C5-2
+Added Pin To Net: NetName=VDDA Pin=C6-1
+Added Pin To Net: NetName=VSS Pin=C6-2
+Added Pin To Net: NetName=VDD_IN Pin=C8-1
+Added Pin To Net: NetName=VSS Pin=C8-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C10-1
+Added Pin To Net: NetName=VSS Pin=C10-2
+Added Pin To Net: NetName=DVDD Pin=C19-1
+Added Pin To Net: NetName=VSS Pin=C19-2
+Added Pin To Net: NetName=DVDD Pin=C20-1
+Added Pin To Net: NetName=VSS Pin=C20-2
+Added Pin To Net: NetName=DVDD Pin=C21-1
+Added Pin To Net: NetName=VSS Pin=C21-2
+Added Pin To Net: NetName=DVDD Pin=C22-1
+Added Pin To Net: NetName=VSS Pin=C22-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C23-1
+Added Pin To Net: NetName=VSS Pin=C23-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C25-1
+Added Pin To Net: NetName=VSS Pin=C25-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C26-1
+Added Pin To Net: NetName=VSS Pin=C26-2
+Added Pin To Net: NetName=VDD_IN Pin=C29-1
+Added Pin To Net: NetName=VSS Pin=C29-2
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_VCM Pin=C30-1
+Added Pin To Net: NetName=VSS Pin=C30-2
+Added Pin To Net: NetName=VDD_IO_REG Pin=C31-1
+Added Pin To Net: NetName=VSS Pin=C31-2
+Added Pin To Net: NetName=VDD_IN Pin=C32-1
+Added Pin To Net: NetName=VSS Pin=C32-2
+Added Pin To Net: NetName=VDD_LINK_REG Pin=C33-1
+Added Pin To Net: NetName=VSS Pin=C33-2
+Added Pin To Net: NetName=VDD_LINK Pin=C34-1
+Added Pin To Net: NetName=VSS Pin=C34-2
+Added Pin To Net: NetName=VDD_LINK Pin=C35-1
+Added Pin To Net: NetName=VSS Pin=C35-2
+Added Pin To Net: NetName=VDD_LINK Pin=C36-1
+Added Pin To Net: NetName=VSS Pin=C36-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C37-1
+Added Pin To Net: NetName=VSS Pin=C37-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C38-1
+Added Pin To Net: NetName=VSS Pin=C38-2
+Added Pin To Net: NetName=NetC39_1 Pin=C39-1
+Added Pin To Net: NetName=VSS Pin=C39-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C40-1
+Added Pin To Net: NetName=VSS Pin=C40-2
+Added Pin To Net: NetName=NetC43_1 Pin=C43-1
+Added Pin To Net: NetName=VSS Pin=C43-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C46-1
+Added Pin To Net: NetName=VSS Pin=C46-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C47-1
+Added Pin To Net: NetName=VSS Pin=C47-2
+Added Pin To Net: NetName=VDD_IO Pin=C48-1
+Added Pin To Net: NetName=VSS Pin=C48-2
+Added Pin To Net: NetName=VDD_IO Pin=C49-1
+Added Pin To Net: NetName=VSS Pin=C49-2
+Added Pin To Net: NetName=VDD_IO Pin=C50-1
+Added Pin To Net: NetName=VSS Pin=C50-2
+Added Pin To Net: NetName=VDD_IO Pin=C51-1
+Added Pin To Net: NetName=VSS Pin=C51-2
+Added Pin To Net: NetName=VDDA Pin=C52-1
+Added Pin To Net: NetName=VSS Pin=C52-2
+Added Pin To Net: NetName=VDDA Pin=C53-1
+Added Pin To Net: NetName=VSS Pin=C53-2
+Added Pin To Net: NetName=NetC62_1 Pin=C62-1
+Added Pin To Net: NetName=VSS Pin=C62-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C69-1
+Added Pin To Net: NetName=VSS Pin=C69-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C70-1
+Added Pin To Net: NetName=VSS Pin=C70-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C71-1
+Added Pin To Net: NetName=VSS Pin=C71-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C78-1
+Added Pin To Net: NetName=VSS Pin=C78-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=C95-1
+Added Pin To Net: NetName=VSS Pin=C95-2
+Added Pin To Net: NetName=NetC96_1 Pin=C96-1
+Added Pin To Net: NetName=VSS Pin=C96-2
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_VCM Pin=C98-1
+Added Pin To Net: NetName=VSS Pin=C98-2
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_VCM Pin=C99-1
+Added Pin To Net: NetName=VSS Pin=C99-2
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_VCM Pin=C100-1
+Added Pin To Net: NetName=VSS Pin=C100-2
+Added Pin To Net: NetName=NetC102_1 Pin=C102-1
+Added Pin To Net: NetName=VSS Pin=C102-2
+Added Pin To Net: NetName=VDD_LINK Pin=C103-1
+Added Pin To Net: NetName=VSS Pin=C103-2
+Added Pin To Net: NetName=DVDD_REG Pin=C104-1
+Added Pin To Net: NetName=VSS Pin=C104-2
+Added Pin To Net: NetName=VDD_IN Pin=C105-1
+Added Pin To Net: NetName=VSS Pin=C105-2
+Added Pin To Net: NetName=VDD_IN Pin=C113-1
+Added Pin To Net: NetName=VSS Pin=C113-2
+Added Pin To Net: NetName=GATE_LINK_REG Pin=C114-1
+Added Pin To Net: NetName=VSS Pin=C114-2
+Added Pin To Net: NetName=GATE_LINK Pin=C115-1
+Added Pin To Net: NetName=VSS Pin=C115-2
+Added Pin To Net: NetName=GATE_LINK Pin=C116-1
+Added Pin To Net: NetName=VSS Pin=C116-2
+Added Pin To Net: NetName=GATE_LINK Pin=C117-1
+Added Pin To Net: NetName=VSS Pin=C117-2
+Added Pin To Net: NetName=GATE_LINK Pin=C118-1
+Added Pin To Net: NetName=VSS Pin=C118-2
+Added Pin To Net: NetName=VDD_IO_RS Pin=FB1-1
+Added Pin To Net: NetName=VDD_IO Pin=FB1-2
+Added Pin To Net: NetName=DVDD_RS Pin=FB3-1
+Added Pin To Net: NetName=DVDD Pin=FB3-2
+Added Pin To Net: NetName=VDD_LINK_RS Pin=FB4-1
+Added Pin To Net: NetName=VDD_LINK Pin=FB4-2
+Added Pin To Net: NetName=GATE_LINK_RS Pin=FB7-1
+Added Pin To Net: NetName=GATE_LINK Pin=FB7-2
+Added Pin To Net: NetName=VDDA_RS Pin=FB10-1
+Added Pin To Net: NetName=VDDA Pin=FB10-2
+Added Pin To Net: NetName=VDD_IO_RS Pin=H1-1
+Added Pin To Net: NetName=VDD_IO_RS Pin=H1-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=H2-1
+Added Pin To Net: NetName=VDDA_EN Pin=H2-2
+Added Pin To Net: NetName=VSS Pin=H2-3
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=H3-1
+Added Pin To Net: NetName=VDD_IO_EN Pin=H3-2
+Added Pin To Net: NetName=VSS Pin=H3-3
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=H4-1
+Added Pin To Net: NetName=DVDD_EN Pin=H4-2
+Added Pin To Net: NetName=VSS Pin=H4-3
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=H6-1
+Added Pin To Net: NetName=VDD_LINK_EN Pin=H6-2
+Added Pin To Net: NetName=VSS Pin=H6-3
+Added Pin To Net: NetName=VDD_IO Pin=H7-1
+Added Pin To Net: NetName=NetH7_2 Pin=H7-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=H7-3
+Added Pin To Net: NetName=VDDA_RS Pin=H8-1
+Added Pin To Net: NetName=VDDA_RS Pin=H8-2
+Added Pin To Net: NetName=DVDD_RS Pin=H10-1
+Added Pin To Net: NetName=DVDD_RS Pin=H10-2
+Added Pin To Net: NetName=VDD_LINK_RS Pin=H11-1
+Added Pin To Net: NetName=VDD_LINK_RS Pin=H11-2
+Added Pin To Net: NetName=GATE_LINK_RS Pin=H12-1
+Added Pin To Net: NetName=GATE_LINK_RS Pin=H12-2
+Added Pin To Net: NetName=VSS Pin=H16-1
+Added Pin To Net: NetName=VSS Pin=H16-2
+Added Pin To Net: NetName=VSS Pin=H16-3
+Added Pin To Net: NetName=VDD_IN Pin=H17-1
+Added Pin To Net: NetName=VDD_IN Pin=H17-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=H19-1
+Added Pin To Net: NetName=VDD_SCAN_FPGA Pin=H19-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=H21-1
+Added Pin To Net: NetName=GATE_LINK_EN Pin=H21-2
+Added Pin To Net: NetName=VSS Pin=H21-3
+Added Pin To Net: NetName=VSS Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_VCM Pin=R2-1
+Added Pin To Net: NetName=VSS Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=DVDD_REG Pin=R3-2
+Added Pin To Net: NetName=GATE_LINK_REG Pin=R4-1
+Added Pin To Net: NetName=GATE_LINK_RS Pin=R4-2
+Added Pin To Net: NetName=VSS Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=VSS Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=VDD_IO_REG Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=VDD_LINK_REG Pin=R9-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=R21-1
+Added Pin To Net: NetName=FRAC23_BOT Pin=R21-2
+Added Pin To Net: NetName=FRAC23_BOT Pin=R22-1
+Added Pin To Net: NetName=FRAC13_BOT Pin=R22-2
+Added Pin To Net: NetName=FRAC13_BOT Pin=R23-1
+Added Pin To Net: NetName=VSS Pin=R23-2
+Added Pin To Net: NetName=VDD_IO_REG Pin=R24-1
+Added Pin To Net: NetName=VDD_IO_RS Pin=R24-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=R31-1
+Added Pin To Net: NetName=FRAC23_TOP Pin=R31-2
+Added Pin To Net: NetName=FRAC23_TOP Pin=R32-1
+Added Pin To Net: NetName=FRAC13_TOP Pin=R32-2
+Added Pin To Net: NetName=FRAC13_TOP Pin=R33-1
+Added Pin To Net: NetName=VSS Pin=R33-2
+Added Pin To Net: NetName=NetH7_2 Pin=R36-1
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_VCM Pin=R36-2
+Added Pin To Net: NetName=VDDA_REG Pin=R38-1
+Added Pin To Net: NetName=VDDA_RS Pin=R38-2
+Added Pin To Net: NetName=VDD_LINK_REG Pin=R39-1
+Added Pin To Net: NetName=VDD_LINK_RS Pin=R39-2
+Added Pin To Net: NetName=VSS Pin=R40-1
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=DVDD_REG Pin=R41-1
+Added Pin To Net: NetName=DVDD_RS Pin=R41-2
+Added Pin To Net: NetName=NetR52_1 Pin=R52-1
+Added Pin To Net: NetName=VDDA_REG Pin=R52-2
+Added Pin To Net: NetName=VSS Pin=R72-1
+Added Pin To Net: NetName=NetR72_2 Pin=R72-2
+Added Pin To Net: NetName=NetR73_1 Pin=R73-1
+Added Pin To Net: NetName=GATE_LINK_REG Pin=R73-2
+Added Pin To Net: NetName=VDD_IO Pin=TP1-1
+Added Pin To Net: NetName=VDDA Pin=TP2-1
+Added Pin To Net: NetName=DVDD Pin=TP3-1
+Added Pin To Net: NetName=VDD_LINK Pin=TP4-1
+Added Pin To Net: NetName=VDDA_REG Pin=U1-1
+Added Pin To Net: NetName=VDD_IN Pin=U1-5
+Added Pin To Net: NetName=VDD_IN Pin=U1-6
+Added Pin To Net: NetName=VDD_IN Pin=U1-7
+Added Pin To Net: NetName=VDD_IN Pin=U1-8
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U1-10
+Added Pin To Net: NetName=VDDA_EN Pin=U1-11
+Added Pin To Net: NetName=VSS Pin=U1-12
+Added Pin To Net: NetName=NetC62_1 Pin=U1-15
+Added Pin To Net: NetName=VDDA_FB Pin=U1-16
+Added Pin To Net: NetName=VDDA_REG Pin=U1-18
+Added Pin To Net: NetName=VDDA_REG Pin=U1-19
+Added Pin To Net: NetName=VDDA_REG Pin=U1-20
+Added Pin To Net: NetName=VSS Pin=U1-21
+Added Pin To Net: NetName=DVDD_FB Pin=U2-1
+Added Pin To Net: NetName=NetR1_2 Pin=U2-2
+Added Pin To Net: NetName=NetR3_1 Pin=U2-3
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U2-4
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U2-5
+Added Pin To Net: NetName=VDDA_FB Pin=U2-6
+Added Pin To Net: NetName=NetR40_2 Pin=U2-7
+Added Pin To Net: NetName=NetR52_1 Pin=U2-8
+Added Pin To Net: NetName=I2C_SDA_V Pin=U2-9
+Added Pin To Net: NetName=VSS Pin=U2-10
+Added Pin To Net: NetName=NetR9_1 Pin=U2-11
+Added Pin To Net: NetName=NetR6_2 Pin=U2-12
+Added Pin To Net: NetName=VDD_LINK_FB Pin=U2-13
+Added Pin To Net: NetName=I2C_SCL_V Pin=U2-14
+Added Pin To Net: NetName=VSS Pin=U2-15
+Added Pin To Net: NetName=VSS Pin=U2-16
+Added Pin To Net: NetName=NetR8_1 Pin=U2-17
+Added Pin To Net: NetName=NetR5_2 Pin=U2-18
+Added Pin To Net: NetName=VDD_IO_FB Pin=U2-19
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U2-20
+Added Pin To Net: NetName=DVDD_REG Pin=U3-1
+Added Pin To Net: NetName=VDD_IN Pin=U3-5
+Added Pin To Net: NetName=VDD_IN Pin=U3-6
+Added Pin To Net: NetName=VDD_IN Pin=U3-7
+Added Pin To Net: NetName=VDD_IN Pin=U3-8
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U3-10
+Added Pin To Net: NetName=DVDD_EN Pin=U3-11
+Added Pin To Net: NetName=VSS Pin=U3-12
+Added Pin To Net: NetName=NetC102_1 Pin=U3-15
+Added Pin To Net: NetName=DVDD_FB Pin=U3-16
+Added Pin To Net: NetName=DVDD_REG Pin=U3-18
+Added Pin To Net: NetName=DVDD_REG Pin=U3-19
+Added Pin To Net: NetName=DVDD_REG Pin=U3-20
+Added Pin To Net: NetName=VSS Pin=U3-21
+Added Pin To Net: NetName=VDDA_REG Pin=U8-2
+Added Pin To Net: NetName=VDDA_RS Pin=U8-3
+Added Pin To Net: NetName=VSS Pin=U8-5
+Added Pin To Net: NetName=I2C_SCL_I Pin=U8-6
+Added Pin To Net: NetName=I2C_SDA_I Pin=U8-7
+Added Pin To Net: NetName=VSS Pin=U8-8
+Added Pin To Net: NetName=FRAC23_TOP Pin=U8-9
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U8-10
+Added Pin To Net: NetName=DVDD_REG Pin=U9-2
+Added Pin To Net: NetName=DVDD_RS Pin=U9-3
+Added Pin To Net: NetName=VSS Pin=U9-5
+Added Pin To Net: NetName=I2C_SCL_I Pin=U9-6
+Added Pin To Net: NetName=I2C_SDA_I Pin=U9-7
+Added Pin To Net: NetName=VSS Pin=U9-8
+Added Pin To Net: NetName=FRAC13_BOT Pin=U9-9
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U9-10
+Added Pin To Net: NetName=VDD_IO_REG Pin=U10-2
+Added Pin To Net: NetName=VDD_IO_RS Pin=U10-3
+Added Pin To Net: NetName=VSS Pin=U10-5
+Added Pin To Net: NetName=I2C_SCL_I Pin=U10-6
+Added Pin To Net: NetName=I2C_SDA_I Pin=U10-7
+Added Pin To Net: NetName=VSS Pin=U10-8
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U10-9
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U10-10
+Added Pin To Net: NetName=VDD_IO_REG Pin=U12-1
+Added Pin To Net: NetName=VDD_IN Pin=U12-5
+Added Pin To Net: NetName=VDD_IN Pin=U12-6
+Added Pin To Net: NetName=VDD_IN Pin=U12-7
+Added Pin To Net: NetName=VDD_IN Pin=U12-8
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U12-10
+Added Pin To Net: NetName=VDD_IO_EN Pin=U12-11
+Added Pin To Net: NetName=VSS Pin=U12-12
+Added Pin To Net: NetName=NetC43_1 Pin=U12-15
+Added Pin To Net: NetName=VDD_IO_FB Pin=U12-16
+Added Pin To Net: NetName=VDD_IO_REG Pin=U12-18
+Added Pin To Net: NetName=VDD_IO_REG Pin=U12-19
+Added Pin To Net: NetName=VDD_IO_REG Pin=U12-20
+Added Pin To Net: NetName=VSS Pin=U12-21
+Added Pin To Net: NetName=VDD_LINK_REG Pin=U16-1
+Added Pin To Net: NetName=VDD_IN Pin=U16-5
+Added Pin To Net: NetName=VDD_IN Pin=U16-6
+Added Pin To Net: NetName=VDD_IN Pin=U16-7
+Added Pin To Net: NetName=VDD_IN Pin=U16-8
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U16-10
+Added Pin To Net: NetName=VDD_LINK_EN Pin=U16-11
+Added Pin To Net: NetName=VSS Pin=U16-12
+Added Pin To Net: NetName=NetC39_1 Pin=U16-15
+Added Pin To Net: NetName=VDD_LINK_FB Pin=U16-16
+Added Pin To Net: NetName=VDD_LINK_REG Pin=U16-18
+Added Pin To Net: NetName=VDD_LINK_REG Pin=U16-19
+Added Pin To Net: NetName=VDD_LINK_REG Pin=U16-20
+Added Pin To Net: NetName=VSS Pin=U16-21
+Added Pin To Net: NetName=GATE_LINK_REG Pin=U21-1
+Added Pin To Net: NetName=VDD_IN Pin=U21-5
+Added Pin To Net: NetName=VDD_IN Pin=U21-6
+Added Pin To Net: NetName=VDD_IN Pin=U21-7
+Added Pin To Net: NetName=VDD_IN Pin=U21-8
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U21-10
+Added Pin To Net: NetName=GATE_LINK_EN Pin=U21-11
+Added Pin To Net: NetName=VSS Pin=U21-12
+Added Pin To Net: NetName=NetC96_1 Pin=U21-15
+Added Pin To Net: NetName=GATE_LINK_FB Pin=U21-16
+Added Pin To Net: NetName=GATE_LINK_REG Pin=U21-18
+Added Pin To Net: NetName=GATE_LINK_REG Pin=U21-19
+Added Pin To Net: NetName=GATE_LINK_REG Pin=U21-20
+Added Pin To Net: NetName=VSS Pin=U21-21
+Added Pin To Net: NetName=GATE_LINK_FB Pin=U22-1
+Added Pin To Net: NetName=NetR72_2 Pin=U22-2
+Added Pin To Net: NetName=NetR73_1 Pin=U22-3
+Added Pin To Net: NetName=VSS Pin=U22-4
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U22-5
+Added Pin To Net: NetName=I2C_SDA_V Pin=U22-9
+Added Pin To Net: NetName=VSS Pin=U22-10
+Added Pin To Net: NetName=I2C_SCL_V Pin=U22-14
+Added Pin To Net: NetName=VSS Pin=U22-15
+Added Pin To Net: NetName=VSS Pin=U22-16
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U22-20
+Added Pin To Net: NetName=VDD_LINK_REG Pin=U32-2
+Added Pin To Net: NetName=VDD_LINK_RS Pin=U32-3
+Added Pin To Net: NetName=VSS Pin=U32-5
+Added Pin To Net: NetName=I2C_SCL_I Pin=U32-6
+Added Pin To Net: NetName=I2C_SDA_I Pin=U32-7
+Added Pin To Net: NetName=VSS Pin=U32-8
+Added Pin To Net: NetName=VSS Pin=U32-9
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=U32-10
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C1 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C2 1uF
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component C3 100nF
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component C4 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C5 10nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C6 100pF
+Added Member To Class: ClassName=Top Member=Component C8 22uF
+Added Member To Class: ClassName=U_FPGA_interface Member=Component C10 22uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C19 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C20 220nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C21 10nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C22 100pF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C23 1uF
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component C25 3.3uF
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component C26 100nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C29 3.3uF
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component C30 220nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C31 1uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C32 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C33 1uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C34 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C35 220nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C36 10nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C37 1uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C38 1uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C39 10nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C40 1uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C43 10nF
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component C46 3.3uF
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component C47 100nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C48 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C49 220nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C50 10nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C51 100pF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C52 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C53 220nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C62 10nF
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component C69 100nF
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component C70 3.3uF
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component C71 100nF
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component C78 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C95 1uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C96 10nF
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component C98 10nF
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component C99 3.3uF
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component C100 100pF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C102 10nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C103 100pF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C104 1uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C105 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C113 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C114 1uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C115 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C116 220nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C117 10nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C118 100pF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component FB1 Ferrite Bead
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component FB3 Ferrite Bead
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component FB4 Ferrite Bead
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component FB7 Ferrite Bead
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component FB10 Ferrite Bead
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H1 Header_2
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H2 Header_3
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H3 Header_3
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H4 Header_3
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H6 Header_3
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component H7 Header_3
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H8 Header_2
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H10 Header_2
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H11 Header_2
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H12 Header_2
+Added Member To Class: ClassName=Top Member=Component H15 Header_2
+Added Member To Class: ClassName=Top Member=Component H16 Header_3
+Added Member To Class: ClassName=Top Member=Component H17 Header_2
+Added Member To Class: ClassName=U_FPGA_interface Member=Component H19 Header_3
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H21 Header_3
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component R1 2.67Kohm
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component R2 4.32Kohm
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component R3 0ohm
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component R4 0.11ohm
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component R5 3Kohm
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component R6 1.5Kohm
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component R8 3.48Kohm
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component R9 930ohm
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component R21 1kohm
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component R22 1kohm
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component R23 1kohm
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component R24 0.11ohm
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component R31 1kohm
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component R32 1kohm
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component R33 1kohm
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component R36 13Kohm
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component R38 0.11ohm
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component R39 0.11ohm
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component R40 2.67Kohm
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component R41 0.11ohm
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component R52 0ohm
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component R72 1.5Kohm
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component R73 300ohm
+Added Member To Class: ClassName=Top Member=Component TP1 *
+Added Member To Class: ClassName=Top Member=Component TP2 *
+Added Member To Class: ClassName=Top Member=Component TP3 *
+Added Member To Class: ClassName=Top Member=Component TP4 *
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component U1 TPS74201
+Added Member To Class: ClassName=U_Fader2 Member=Component U2 
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component U2 AD5254
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component U3 TPS74201
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component U8 MAX9612
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component U9 MAX9612
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component U10 MAX9612
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component U12 TPS74201
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component U16 TPS74201
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component U21 TPS74201
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component U22 AD5254
+Added Member To Class: ClassName=U_Supplies_Isense Member=Component U32 MAX9612
+Added Room: Name=U_FPGA_interface
+Added Room: Name=U_Lvl_Shifters
+Added Room: Name=U_SMA_RF_CLK
+Added Room: Name=U_Supplies_Isense
+Added Room: Name=U_Supplies_LDO
+Added Room: Name=U_Supplies_Pots

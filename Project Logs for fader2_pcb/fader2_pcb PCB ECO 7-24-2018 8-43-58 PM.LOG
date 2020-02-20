@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=U_Supplies_Pots Member=C67
+Change Component Designator: OldDesignator=C67 NewDesignator=C68
+Added Member To Class: ClassName=U_Supplies_Pots Member=Component C68 3.3uF

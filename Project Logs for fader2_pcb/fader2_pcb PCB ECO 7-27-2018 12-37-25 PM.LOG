@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=LO_OVERRIDE_P Pin=BL1-1
+Removed Pin From Net: NetName=LO_OVERRIDE_N Pin=BL1-2
+Removed Pin From Net: NetName=VSS Pin=BL1-4
+Removed Member From Class: ClassName=U_SMA_RF_CLK Member=BL1
+Added Component: Designator=SMA13(THRU_SMD_SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "ACX1962-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "132134-15"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LO_OVERRIDE_N Pin=SMA11-1
+Added Pin To Net: NetName=LO_OVERRIDE_P Pin=SMA13-1
+Added Pin To Net: NetName=VSS Pin=SMA13-2
+Added Pin To Net: NetName=VSS Pin=SMA13-3
+Added Pin To Net: NetName=VSS Pin=SMA13-4
+Added Pin To Net: NetName=VSS Pin=SMA13-5
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component SMA13 SMA high freq

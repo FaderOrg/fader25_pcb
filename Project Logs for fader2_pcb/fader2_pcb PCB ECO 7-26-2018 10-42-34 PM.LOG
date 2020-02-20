@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=ANA_MUX_P Pin=C84-1
+Removed Pin From Net: NetName=ANA_MUX_N Pin=C85-1
+Added Component: Designator=TP5(Test_Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP6(Test_Point)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=ANA_MUX_N Pin=C84-1
+Added Pin To Net: NetName=ANA_MUX_P Pin=C85-1
+Added Pin To Net: NetName=ANA_MUX_P Pin=TP5-1
+Added Pin To Net: NetName=ANA_MUX_N Pin=TP6-1
+Change Net Name : Old Net Name=rx_buf_in_N New Net Name=rx_buf_in_P
+Change Net Name : Old Net Name=rx_buf_in_P New Net Name=rx_buf_in_N
+Change Net Name : Old Net Name=rx_buf_out_N New Net Name=rx_buf_out_P
+Change Net Name : Old Net Name=rx_buf_out_P New Net Name=rx_buf_out_N
+Added Member To Class: ClassName=U_BB_analog Member=Component TP5 
+Added Member To Class: ClassName=U_BB_analog Member=Component TP6 

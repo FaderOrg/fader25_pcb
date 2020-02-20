@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=VDDA_REG Pin=R52-2
+Removed Pin From Net: NetName=VDDA_FB Pin=U2-6
+Removed Pin From Net: NetName=VDD_LINK_FB Pin=U2-13
+Change Component Comment : Designator=R52 Old Comment=0ohm New Comment=930ohm
+Change Component Comment : Designator=R6 Old Comment=1.5Kohm New Comment=2.67Kohm
+Change Component Comment : Designator=R40 Old Comment=2.67Kohm New Comment=1.5Kohm
+Change Component Comment : Designator=R9 Old Comment=930ohm New Comment=0ohm
+Change component parameters: Designator = "R6"; Footprint = "0603"; UniqueID = "\ASGAKNBX\URCKYRBD\JGEHRQYH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "P2.67KDBCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "ERA-3AEB2671V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40"; Footprint = "0603"; UniqueID = "\ASGAKNBX\URCKYRBD\TUOSPUBC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "P1.5KDBCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "ERA-3AEB152V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9"; Footprint = "0603"; UniqueID = "\ASGAKNBX\URCKYRBD\YJEPCKDT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "P0.0GCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R52"; Footprint = "0603"; UniqueID = "\ASGAKNBX\URCKYRBD\KXRUHFSC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "311-2391-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "RT0603DRD07931RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDDA_REG Pin=R9-2
+Added Pin To Net: NetName=VDD_LINK_REG Pin=R52-2
+Added Pin To Net: NetName=VDD_LINK_FB Pin=U2-6
+Added Pin To Net: NetName=VDDA_FB Pin=U2-13

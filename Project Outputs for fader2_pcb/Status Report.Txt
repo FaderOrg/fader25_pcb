@@ -1,0 +1,33 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [fader2_blind_vias_pcb.PcbDoc]
+   Generated File[fader2_blind_vias_pcb.GTL]
+   Generated File[fader2_blind_vias_pcb.G1]
+   Generated File[fader2_blind_vias_pcb.GP1]
+   Generated File[fader2_blind_vias_pcb.GP2]
+   Generated File[fader2_blind_vias_pcb.G2]
+   Generated File[fader2_blind_vias_pcb.GBL]
+   Generated File[fader2_blind_vias_pcb.GPB]
+   Generated File[fader2_blind_vias_pcb.GPT]
+   Generated File[fader2_blind_vias_pcb.GTO]
+   Generated File[fader2_blind_vias_pcb.GTP]
+   Generated File[fader2_blind_vias_pcb.GTS]
+   Generated File[fader2_blind_vias_pcb.GBS]
+   Generated File[fader2_blind_vias_pcb.GBP]
+   Generated File[fader2_blind_vias_pcb.GBO]
+   Generated File[fader2_blind_vias_pcb.GKO]
+   Generated File[fader2_blind_vias_pcb.GM13]
+   Generated File[fader2_blind_vias_pcb.GM15]
+   Generated File[fader2_blind_vias_pcb.GM16]
+   Generated File[fader2_blind_vias_pcb.GM1]
+   Generated File[fader2_blind_vias_pcb.GM21]
+   Generated File[fader2_blind_vias_pcb.GM22]
+   Generated File[fader2_blind_vias_pcb.RUL]
+   Generated File[fader2_blind_vias_pcb.EXTREP]
+   Generated File[fader2_blind_vias_pcb.REP]
+
+
+Files Generated   : 24
+Documents Printed : 0
+
+Finished Output Generation At 3:33:24 PM On 9/22/2018

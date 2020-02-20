@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NetSMA26_1 Pin=SMA26-1
+Added Pin To Net: NetName=VSS Pin=SMA26-2
+Added Pin To Net: NetName=VSS Pin=SMA26-3
+Added Pin To Net: NetName=VSS Pin=SMA26-4
+Added Pin To Net: NetName=VSS Pin=SMA26-5
+Added Pin To Net: NetName=NetSMA26_1 Pin=SMA27-1
+Added Pin To Net: NetName=VSS Pin=SMA27-2
+Added Pin To Net: NetName=VSS Pin=SMA27-3
+Added Pin To Net: NetName=VSS Pin=SMA27-4
+Added Pin To Net: NetName=VSS Pin=SMA27-5
+Added Member To Class: ClassName=U_De_Embed Member=Component SMA14 SMA high freq
+Added Member To Class: ClassName=U_De_Embed Member=Component SMA26 SMA high freq
+Added Member To Class: ClassName=U_De_Embed Member=Component SMA27 SMA high freq

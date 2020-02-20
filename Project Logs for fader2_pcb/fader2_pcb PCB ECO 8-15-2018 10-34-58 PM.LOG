@@ -1,0 +1,18 @@
+Change Component Comment : Designator=U4 Old Comment=NLSV4T244 New Comment=NLSV4T244DTR2G
+Change Component Comment : Designator=U7 Old Comment=NLSV4T244 New Comment=NLSV4T244DTR2G
+Change component parameters: Designator = "U4"; Footprint = "948G-01"; UniqueID = "\OHJGLSHD\MYRGSHXM\NSHTOPJY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "NLSV4T244DTR2GOSCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "NLSV4T244DTR2G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Num. Channels"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TSSOP-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Range"; Value = "0.9V-4.5V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U7"; Footprint = "948G-01"; UniqueID = "\OHJGLSHD\MYRGSHXM\OHXVPEBW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "NLSV4T244DTR2GOSCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "NLSV4T244DTR2G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Num. Channels"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TSSOP-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Range"; Value = "0.9V-4.5V"; VariantName = "[No Variations]"

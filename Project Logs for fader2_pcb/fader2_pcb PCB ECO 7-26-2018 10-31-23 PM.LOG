@@ -1,0 +1,29 @@
+Change Component Comment : Designator=R2 Old Comment=5Kohm New Comment=4.32Kohm
+Change component parameters: Designator = "R2"; Footprint = "0603"; UniqueID = "\RTVMIPST\AMRHYRHR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "P4.32KDBCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "ERA-3AEB4321V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_VCM Pin=C30-1
+Added Pin To Net: NetName=VSS Pin=C30-2
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_VCM Pin=C98-1
+Added Pin To Net: NetName=VSS Pin=C98-2
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_VCM Pin=C99-1
+Added Pin To Net: NetName=VSS Pin=C99-2
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_VCM Pin=C100-1
+Added Pin To Net: NetName=VSS Pin=C100-2
+Added Pin To Net: NetName=VDD_IO Pin=H7-1
+Added Pin To Net: NetName=NetH7_2 Pin=H7-2
+Added Pin To Net: NetName=VDD_FPGA_3P3V Pin=H7-3
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_VCM Pin=R2-1
+Added Pin To Net: NetName=VSS Pin=R2-2
+Added Pin To Net: NetName=NetH7_2 Pin=R36-1
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_VCM Pin=R36-2
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component C30 220nF
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component C98 10nF
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component C99 3.3uF
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component C100 100pF
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component H7 Header_3
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component R2 4.32Kohm
+Added Member To Class: ClassName=U_SMA_RF_CLK Member=Component R36 13Kohm

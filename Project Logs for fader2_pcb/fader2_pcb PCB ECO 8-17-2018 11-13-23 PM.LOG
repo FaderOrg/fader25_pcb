@@ -1,0 +1,120 @@
+Change Component Library : Designator=C5 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C21 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C36 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C39 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C43 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C50 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C62 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C84 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C85 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C88 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C91 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C96 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C98 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C102 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C117 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change component parameters: Designator = "C5"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\ICKRNRKR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4762-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GCM155R71H103KA55D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\YRYLGJBJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4762-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GCM155R71H103KA55D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\CQGXIIEM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4762-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GCM155R71H103KA55D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C39"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\NVNINYOK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4762-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GCM155R71H103KA55D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C43"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\SLMOGFUH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4762-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GCM155R71H103KA55D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C50"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\BKHHYUDI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4762-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GCM155R71H103KA55D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C62"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\SHHHYITF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4762-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GCM155R71H103KA55D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C84"; Footprint = "0402"; UniqueID = "\GDGCLSTD\NHWMWFCD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4762-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GCM155R71H103KA55D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C85"; Footprint = "0402"; UniqueID = "\GDGCLSTD\HAVUYWXQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4762-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GCM155R71H103KA55D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C88"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\TVXNCLIP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4762-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GCM155R71H103KA55D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C91"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\NTQVVOTT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4762-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GCM155R71H103KA55D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C96"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\OSCIOMXN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4762-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GCM155R71H103KA55D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C98"; Footprint = "0402"; UniqueID = "\RTVMIPST\XXGOGDGK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4762-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GCM155R71H103KA55D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C102"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\RPTEUKMV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4762-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GCM155R71H103KA55D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C117"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\EIXLOEPP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "490-4762-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "GCM155R71H103KA55D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10000pF"; VariantName = "[No Variations]"

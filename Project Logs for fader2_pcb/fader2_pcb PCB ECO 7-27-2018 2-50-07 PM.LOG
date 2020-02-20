@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetSMA14_1 New Net Name=THRU_LINK
+Change Net Name : Old Net Name=NetSMA26_1 New Net Name=THRU_RF
+Added Member To Class: ClassName=U_De_Embed Member=Component SMA14 SMA high freq
+Added Member To Class: ClassName=U_De_Embed Member=Component SMA15 SMA high freq

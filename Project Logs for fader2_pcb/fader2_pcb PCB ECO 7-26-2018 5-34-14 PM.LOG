@@ -1,0 +1,48 @@
+Added Component: Designator=H1(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3469-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68001-202HLF"; VariantName = "[No Variations]"
+Added Component: Designator=H2(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3469-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68001-202HLF"; VariantName = "[No Variations]"
+Added Component: Designator=H8(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3469-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68001-202HLF"; VariantName = "[No Variations]"
+Added Component: Designator=H10(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3469-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68001-202HLF"; VariantName = "[No Variations]"
+Added Component: Designator=H11(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3469-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68001-202HLF"; VariantName = "[No Variations]"
+Added Component: Designator=H12(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "609-3469-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "68001-202HLF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_IO_RS Pin=H1-1
+Added Pin To Net: NetName=VDD_IO_RS Pin=H1-2
+Added Pin To Net: NetName=VDD_BUFFER_REG Pin=H2-1
+Added Pin To Net: NetName=VDD_BUFFER_REG Pin=H2-2
+Added Pin To Net: NetName=VDDA_RS Pin=H8-1
+Added Pin To Net: NetName=VDDA_RS Pin=H8-2
+Added Pin To Net: NetName=DVDD_RS Pin=H10-1
+Added Pin To Net: NetName=DVDD_RS Pin=H10-2
+Added Pin To Net: NetName=VDD_LINK_RS Pin=H11-1
+Added Pin To Net: NetName=VDD_LINK_RS Pin=H11-2
+Added Pin To Net: NetName=GATE_LINK_RS Pin=H12-1
+Added Pin To Net: NetName=GATE_LINK_RS Pin=H12-2
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H1 Header_2
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H2 Header_2
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H8 Header_2
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H10 Header_2
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H11 Header_2
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component H12 Header_2

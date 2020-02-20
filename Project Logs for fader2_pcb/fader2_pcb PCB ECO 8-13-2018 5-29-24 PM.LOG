@@ -1,0 +1,9 @@
+Change Component Kind : Designator=TP_VDDA Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP_VDD_LINK Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP_VDD_IO Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP_VDD_BUFFER Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP_GATE_LINK Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP_DVDD Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP_ANA_P Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP_ANA_N Old Kind=Standard New Kind=Standard (No BOM)
+Added Member To Class: ClassName=U_De_Embed Member=Component SMA_THRU_LINK0 SMA high freq

@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=H2 NewDesignator=EN_VDDA
+Change Component Designator: OldDesignator=H4 NewDesignator=EN_DVDD
+Change Component Designator: OldDesignator=H6 NewDesignator=EN_VDD_LINK
+Change Component Designator: OldDesignator=H21 NewDesignator=EN_GATE_LINK

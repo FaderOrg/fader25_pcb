@@ -1,0 +1,36 @@
+Added Pin To Net: NetName=VDDA Pin=C5-1
+Added Pin To Net: NetName=VDDA Pin=C6-1
+Added Pin To Net: NetName=DVDD Pin=C19-1
+Added Pin To Net: NetName=DVDD Pin=C20-1
+Added Pin To Net: NetName=DVDD Pin=C21-1
+Added Pin To Net: NetName=DVDD Pin=C22-1
+Added Pin To Net: NetName=VDD_LINK Pin=C34-1
+Added Pin To Net: NetName=VSS Pin=C34-2
+Added Pin To Net: NetName=VDD_LINK Pin=C35-1
+Added Pin To Net: NetName=VSS Pin=C35-2
+Added Pin To Net: NetName=VDD_LINK Pin=C36-1
+Added Pin To Net: NetName=VSS Pin=C36-2
+Added Pin To Net: NetName=VDD_IO Pin=C48-1
+Added Pin To Net: NetName=VDD_IO Pin=C49-1
+Added Pin To Net: NetName=VDD_IO Pin=C50-1
+Added Pin To Net: NetName=VDD_IO Pin=C51-1
+Added Pin To Net: NetName=VDDA Pin=C52-1
+Added Pin To Net: NetName=VDDA Pin=C53-1
+Added Pin To Net: NetName=VDD_LINK Pin=C103-1
+Added Pin To Net: NetName=VSS Pin=C103-2
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C5 10nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C6 100pF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C19 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C20 220nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C21 10nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C22 100pF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C34 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C35 220nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C36 10nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C48 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C49 220nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C50 10nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C51 100pF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C52 3.3uF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C53 220nF
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component C103 100pF

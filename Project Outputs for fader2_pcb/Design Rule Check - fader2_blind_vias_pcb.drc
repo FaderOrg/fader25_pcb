@@ -1,0 +1,62 @@
+Protel Design System Design Rule Check
+PCB File : D:\Altium\fader2_pcb\fader2_blind_vias_pcb.PcbDoc
+Date     : 11/13/2018
+Time     : 4:24:01 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) ((InDifferentialPairClass('All Differential Pairs'))),(OnLayer('top') And IsRegion)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) ((InDifferentialPairClass('All Differential Pairs'))),(OnLayer('SIG1') And IsRegion)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) ((InDifferentialPairClass('All Differential Pairs'))),(OnLayer('bot') And IsRegion)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=3mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=3mil) (WithinRoom('TDD_Chip')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(IsRegion)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InNet('CLKS_IN')),(IsRegion)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InNet('CLK_FPGA_IN')),(IsRegion)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InNet('CLKF_IN')),(IsRegion)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InNet('ANT_P')),(IsRegion)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InNet('LNA_OUT')),(IsRegion)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=10mil) (Preferred=5mil) (WithinRoom('TDD_Chip'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=50mil) (Preferred=10mil) (InNetClass('Pwr_Gnd'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=50mil) (Preferred=5.75mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=5mil) (Conductor Width=5mil) (Air Gap=5mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=4mil) (Max=187mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:03

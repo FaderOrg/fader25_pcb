@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=DVDD Pin=TP_DVDD-1
+Removed Pin From Net: NetName=GATE_LINK Pin=TP_GATE_LINK-1
+Removed Pin From Net: NetName=VDD_IO Pin=TP_VDD_IO-1
+Removed Pin From Net: NetName=VDD_LINK Pin=TP_VDD_LINK-1
+Removed Pin From Net: NetName=VDDA Pin=TP_VDDA-1
+Removed Member From Class: ClassName=Top Member=TP_DVDD
+Removed Member From Class: ClassName=Top Member=TP_GATE_LINK
+Removed Member From Class: ClassName=Top Member=TP_VDD_IO
+Removed Member From Class: ClassName=Top Member=TP_VDD_LINK
+Removed Member From Class: ClassName=Top Member=TP_VDDA
+Change Component Comment : Designator=TP_DVDD Old Comment=* New Comment=
+Change Component Comment : Designator=TP_GATE_LINK Old Comment=* New Comment=
+Change Component Comment : Designator=TP_VDD_IO Old Comment=* New Comment=
+Change Component Comment : Designator=TP_VDD_LINK Old Comment=* New Comment=
+Change Component Comment : Designator=TP_VDDA Old Comment=* New Comment=
+Added Component: Designator=TP_VDD_BUFFER(Test_Point)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=DVDD_RS Pin=TP_DVDD-1
+Added Pin To Net: NetName=GATE_LINK_RS Pin=TP_GATE_LINK-1
+Added Pin To Net: NetName=VDD_BUFFER_REG Pin=TP_VDD_BUFFER-1
+Added Pin To Net: NetName=VDD_IO_RS Pin=TP_VDD_IO-1
+Added Pin To Net: NetName=VDD_LINK_RS Pin=TP_VDD_LINK-1
+Added Pin To Net: NetName=VDDA_RS Pin=TP_VDDA-1
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component TP_DVDD 
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component TP_GATE_LINK 
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component TP_VDD_BUFFER 
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component TP_VDD_IO 
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component TP_VDD_LINK 
+Added Member To Class: ClassName=U_Supplies_LDO Member=Component TP_VDDA 

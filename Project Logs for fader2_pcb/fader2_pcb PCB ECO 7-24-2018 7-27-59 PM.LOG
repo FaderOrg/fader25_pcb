@@ -1,0 +1,39 @@
+Added Component: Designator=U4(948G-01)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "NLSV4T244MUTAGOSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "NLSV4T244MUTAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num. Channels"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "12UQFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Range"; Value = "0.9V-4.5V"; VariantName = "[No Variations]"
+Added Component: Designator=U7(948G-01)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey ID"; Value = "NLSV4T244MUTAGOSCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer ID"; Value = "NLSV4T244MUTAG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num. Channels"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "12UQFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Range"; Value = "0.9V-4.5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_SCAN_FPGA Pin=U4-1
+Added Pin To Net: NetName=scan_in_FPGA Pin=U4-2
+Added Pin To Net: NetName=scan_en_FPGA Pin=U4-3
+Added Pin To Net: NetName=scan_clk_FPGA Pin=U4-4
+Added Pin To Net: NetName=RESET_FPGA Pin=U4-5
+Added Pin To Net: NetName=VSS Pin=U4-6
+Added Pin To Net: NetName=RESET Pin=U4-7
+Added Pin To Net: NetName=SCAN_CLK Pin=U4-8
+Added Pin To Net: NetName=SCAN_EN Pin=U4-9
+Added Pin To Net: NetName=SCAN_IN Pin=U4-10
+Added Pin To Net: NetName=VDD_IO Pin=U4-11
+Added Pin To Net: NetName=VSS Pin=U4-12
+Added Pin To Net: NetName=VDD_IO Pin=U7-1
+Added Pin To Net: NetName=SCAN_OUT Pin=U7-2
+Added Pin To Net: NetName=VSS Pin=U7-3
+Added Pin To Net: NetName=VSS Pin=U7-4
+Added Pin To Net: NetName=VSS Pin=U7-5
+Added Pin To Net: NetName=VSS Pin=U7-6
+Added Pin To Net: NetName=scan_out_FPGA Pin=U7-10
+Added Pin To Net: NetName=VDD_SCAN_FPGA Pin=U7-11
+Added Pin To Net: NetName=VSS Pin=U7-12
+Added Member To Class: ClassName=U_Lvl_Shifters Member=Component U4 NLSV4T244
+Added Member To Class: ClassName=U_Lvl_Shifters Member=Component U7 NLSV4T244

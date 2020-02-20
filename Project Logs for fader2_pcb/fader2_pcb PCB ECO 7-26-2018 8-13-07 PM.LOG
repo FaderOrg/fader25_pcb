@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CLK_DIG_OVERRIDE_P Pin=BL2-1
+Removed Pin From Net: NetName=CLK_DIG_OVERRIDE_N Pin=BL2-3
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_N Pin=BL2-1
+Added Pin To Net: NetName=CLK_DIG_OVERRIDE_P Pin=BL2-3

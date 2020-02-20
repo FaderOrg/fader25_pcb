@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=GATE_LINK Pin=U2-B14
+Added Pin To Net: NetName=GATE_LINK Pin=U2-B15
+Added Pin To Net: NetName=GATE_LINK Pin=U2-C14
+Added Pin To Net: NetName=GATE_LINK Pin=U2-C15
+Added Pin To Net: NetName=VDD_LINK Pin=U2-C17
+Added Pin To Net: NetName=VDD_LINK Pin=U2-C18

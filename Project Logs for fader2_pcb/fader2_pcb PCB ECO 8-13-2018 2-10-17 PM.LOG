@@ -1,0 +1,20 @@
+Added Component: Designator=TP_DVDD(Test_Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP_GATE_LINK(Test_Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP_VDD_IO(Test_Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP_VDD_LINK(Test_Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP_VDDA(Test_Point)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=DVDD Pin=TP_DVDD-1
+Added Pin To Net: NetName=GATE_LINK Pin=TP_GATE_LINK-1
+Added Pin To Net: NetName=VDD_IO Pin=TP_VDD_IO-1
+Added Pin To Net: NetName=VDD_LINK Pin=TP_VDD_LINK-1
+Added Pin To Net: NetName=VDDA Pin=TP_VDDA-1
+Added Member To Class: ClassName=Top Member=Component TP_DVDD *
+Added Member To Class: ClassName=Top Member=Component TP_GATE_LINK *
+Added Member To Class: ClassName=Top Member=Component TP_VDD_IO *
+Added Member To Class: ClassName=Top Member=Component TP_VDD_LINK *
+Added Member To Class: ClassName=Top Member=Component TP_VDDA *

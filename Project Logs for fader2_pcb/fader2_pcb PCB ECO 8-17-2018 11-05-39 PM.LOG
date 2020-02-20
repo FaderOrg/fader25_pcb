@@ -1,0 +1,56 @@
+Change Component Library : Designator=C20 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C30 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C35 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C49 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C53 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C87 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change Component Library : Designator=C116 Old Library=eWall_radio.SchLib New Library=fader2_parts.SchLib
+Change component parameters: Designator = "C20"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\PRWVLVFM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "1276-1176-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "CL05B224KO5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30"; Footprint = "0402"; UniqueID = "\RTVMIPST\IVBQEKOU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "1276-1176-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "CL05B224KO5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\FRFAHXVS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "1276-1176-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "CL05B224KO5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C49"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\XIAIXKXU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "1276-1176-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "CL05B224KO5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C53"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\HYGGMHAC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "1276-1176-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "CL05B224KO5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C87"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\NNIJRVEK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "1276-1176-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "CL05B224KO5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C116"; Footprint = "0402"; UniqueID = "\ASGAKNBX\EAMIWGDH\TLKBFXTO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Digikey ID"; Value = "1276-1176-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer ID"; Value = "CL05B224KO5NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.22uF"; VariantName = "[No Variations]"

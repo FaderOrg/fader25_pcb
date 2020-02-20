@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: D:\Altium\fader2_pcb\fader2_blind_vias_pcb.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=fader2_blind_vias_pcb.txt|DrillLayers=gtl,g1,gp1,gp2,g2,gbl
+LayersSetName=TOP_L2_Blind_Vias|DrillFile=fader2_blind_vias_pcb.tx1|DrillLayers=gtl,g1
+LayersSetName=L2_L5_Buried_Vias|DrillFile=fader2_blind_vias_pcb.tx2|DrillLayers=g1,gp1,gp2,g2
+LayersSetName=L5_BOT_Blind_Vias|DrillFile=fader2_blind_vias_pcb.tx3|DrillLayers=g2,gbl
