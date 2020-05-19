@@ -55,23 +55,6 @@ GenerateClassCluster=0
 DocumentUniqueId=AWUJNJDK
 
 [Document2]
-DocumentPath=fader2_pcb.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ABWPPIEG
-
-[Document3]
 DocumentPath=Supplies_LDOs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RORYROTH
 
-[Document4]
+[Document3]
 DocumentPath=Supplies.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNKCWBTL
 
-[Document5]
+[Document4]
 DocumentPath=Supplies_Pots.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SQQHTYRV
 
-[Document6]
+[Document5]
 DocumentPath=Lvl_Shifters.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CTXBNRXN
 
-[Document7]
+[Document6]
 DocumentPath=Supplies_Isense.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JLRXQJTM
 
-[Document8]
+[Document7]
 DocumentPath=FPGA_interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MHYOUFYK
 
-[Document9]
+[Document8]
 DocumentPath=SMA_RF_CLK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XBYJXTMD
 
-[Document10]
+[Document9]
 DocumentPath=Fader2_chip.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IEIEQAYA
 
-[Document11]
+[Document10]
 DocumentPath=De_Embed.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BLISYXLA
 
-[Document12]
+[Document11]
 DocumentPath=Top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOCJYUGS
 
-[Document13]
+[Document12]
 DocumentPath=BB_analog.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACEKADQY
 
-[Document14]
+[Document13]
 DocumentPath=fader2_pcb.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=fader2_parts.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
