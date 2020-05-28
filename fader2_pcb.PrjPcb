@@ -285,10 +285,6 @@ Variation1=Designator=R51|UniqueId=\GDGCLSTD\XDEMMMIV|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for fader2_pcb\BOM\Bill of Materials-fader2_pcb.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for fader2_pcb\Design Rule Check - fader2_blind_vias_pcb.html
 DItemRevisionGUID=
 
