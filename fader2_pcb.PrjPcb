@@ -339,6 +339,10 @@ ParamVariationCount=0
 DocumentPath=Project Outputs for fader2_pcb\Design Rule Check - fader2_blind_vias_pcb.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=fader2_blind_vias_pcb 6-23-2020 3-58-40 PM.WAS
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
